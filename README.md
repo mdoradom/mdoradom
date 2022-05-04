@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="" width="100"/>
+  <img src="hi.gif"/>
 </div>
-
+<div id="badges">
+  <a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+   </a>
+</div>
 <!--
 **mdoradom/mdoradom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
