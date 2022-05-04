@@ -24,7 +24,7 @@ Im a sort of Full Stack Developer in progress.
 - :mailbox: You can contact me via:
   - <a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Badge"/></a>
   - <a href="https://twitter.com/TheMarioGold/"><img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white&style=flat-square" alt="Twitter Badge"/></a>
-  - Mail
+  - <a href="mailto:mariodoradomartinez@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=flat-square" alt="Gmail Badge"/></a>
 
 <!--
 **mdoradom/mdoradom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
