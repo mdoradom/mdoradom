@@ -22,8 +22,8 @@ Im a sort of Full Stack Developer in progress.
 
 - Mobile Developer for Android <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Java" alt="Java" width="15" height="15"/>
 - :mailbox: You can contact me via:
-  - <a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/></a>
-  - <a href="https://twitter.com/TheMarioGold/"><img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/></a>
+  - <a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Badge"/></a>
+  - <a href="https://twitter.com/TheMarioGold/"><img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white&style=flat-square" alt="Twitter Badge"/></a>
   - Mail
 
 <!--
