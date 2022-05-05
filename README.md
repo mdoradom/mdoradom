@@ -64,6 +64,12 @@ I'm sort of a Full Stack Developer in progress.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdoradom&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🏆 Repositorys:
+  
+<a href="https://github.com/mdoradom/musiquitaapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoradom&repo=musiquitaapp&theme=dark" />
+</a>
+  
 ---
   
 ### :mailbox: You can contact me via:
