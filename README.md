@@ -16,7 +16,7 @@
   </h1>
 </div>
 
-### Some Stuff:
+<h3 align="center">Some Stuff:</h3>
 
 I'm sort of a Full Stack Developer in progress.
 
@@ -26,7 +26,7 @@ I'm sort of a Full Stack Developer in progress.
 
 ---
 
-### 🛠️ Languages and Tools:
+<h3 align="center">🛠️ Languages and Tools:</h3>
 
 <div>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -55,24 +55,33 @@ I'm sort of a Full Stack Developer in progress.
 </div>
 
 ---
-
-### 🧊 My Stats:
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdoradom&show_icons=true&locale=en&theme=dark)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdoradom&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdoradom&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏆 Repositorys:
+<h3 align="center">🏆 Repositorys:</h3>
   
 <a href="https://github.com/mdoradom/musiquitaapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoradom&repo=musiquitaapp&theme=dark" />
 </a>
+<p align="left">
+  <br>
+  <a href="https://github.com/mdoradom?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
+---
+
+<h3 align="center">🧊 My Stats:</h3>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdoradom&show_icons=true&locale=en&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdoradom&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdoradom&layout=compact&theme=dark" alt="Top Languages"></a>
+</div>
   
 ---
   
-### :mailbox: You can contact me via:
-<a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario dorado martínez" height="30" width="40" /></a>
-<a href="https://twitter.com/themariogold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themariogold" height="30" width="40" /></a>
-<a href="mailto:mariodoradomartinez@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=flat-square" alt="Gmail Badge"/></a>
+<h3 align="center">:mailbox: You can contact me via:</h3>
+
+<div align="center">
+  <a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario dorado martínez" height="30" width="40" /></a>
+  <a href="https://twitter.com/themariogold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themariogold" height="30" width="40" /></a>
+  <a href="mailto:mariodoradomartinez@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=flat-square" alt="Gmail Badge"/></a>
+</div>
