@@ -58,9 +58,12 @@ I'm sort of a Full Stack Developer in progress.
   
 <h3 align="center">🏆 Repositorys:</h3>
   
-<a href="https://github.com/mdoradom/musiquitaapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoradom&repo=musiquitaapp&theme=dark" />
-</a>
+<div align="center">
+  <a href="https://github.com/mdoradom/musiquitaapp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoradom&repo=musiquitaapp&theme=dark" />
+  </a>
+</div>
+  
 <p align="left">
   <br>
   <a href="https://github.com/mdoradom?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
