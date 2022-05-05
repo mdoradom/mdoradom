@@ -73,7 +73,7 @@ I'm sort of a Full Stack Developer in progress.
 
 <h3 align="center">🧊 My Stats:</h3>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdoradom&show_icons=true&locale=en&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdoradom&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdoradom&show_icons=true&locale=en&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdoradom&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdoradom&layout=compact&theme=dark" alt="Top Languages"></a>
