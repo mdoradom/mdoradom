@@ -64,6 +64,12 @@ I'm sort of a Full Stack Developer in progress.
   </a>
 </div>
   
+<div align="center">
+  <a href="https://github.com/mdoradom/documentacion">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoradom&repo=documentacion&theme=dark" />
+  </a>
+</div>
+  
 <p align="left">
   <br>
   <a href="https://github.com/mdoradom?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
