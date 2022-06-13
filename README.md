@@ -68,6 +68,11 @@ I'm sort of a Full Stack Developer in progress.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoradom&repo=documentacion&theme=dark" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/mdoradom/TypingGame">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoradom&repo=TypingGame&theme=dark" />
+  </a>
+</div>
   
 <p align="left">
   <br>
