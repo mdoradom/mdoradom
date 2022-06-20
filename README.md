@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=mdoradom&style=flat-square&color=blue" alt=""/>
   <h1>
     Hi there
-    <img src="https://c.tenor.com/4VnIMTeiTJEAAAAM/discordgun-emoji.gif" width="25px"/>
+    <img src="https://c.tenor.com/4VnIMTeiTJEAAAAM/discordgun-emoji.gif" width="25px" height="25px"/>
   </h1>
 </div>
 
