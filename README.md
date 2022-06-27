@@ -20,7 +20,7 @@
 
 I'm sort of a Full Stack Developer in progress.
 
-- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Java" alt="Java" width="15" height="15"/> Mobile Developer
+- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Java" alt="Java" width="15" height="15"/> Android Developer
 - 🌱 I’m currently learning **Unreal Engine 5 (C++) | Unity (C#)**
 
 ---
