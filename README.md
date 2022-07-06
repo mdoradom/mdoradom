@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="hi.gif"/>
+  <img src="hi2.gif"/>
 </div>
 <div id="badges" align="center">
   <a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231">
