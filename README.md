@@ -5,9 +5,6 @@
   <a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/mariiiodorado_/">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=mdoradom&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -96,6 +93,5 @@ I'm sort of a Full Stack Developer in progress.
 
 <div align="center">
   <a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario dorado martínez" height="30" width="40" /></a>
-  <a href="https://twitter.com/mariiiodorado_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mario dorado" height="30" width="40" /></a>
   <a href="mailto:mariodoradomartinez@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=flat-square" alt="Gmail Badge"/></a>
 </div>
