@@ -93,5 +93,4 @@ Full Stack Developer.
 
 <div align="center">
   <a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario dorado martínez" height="30" width="40" /></a>
-  <a href="mailto:mariodoradomartinez@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=flat-square" alt="Gmail Badge"/></a>
 </div>
