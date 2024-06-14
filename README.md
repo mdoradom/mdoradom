@@ -1,96 +1,118 @@
-<div id="header" align="center">
-  <img src="hi2.gif"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=mdoradom&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hi there
-    <img src="https://c.tenor.com/4VnIMTeiTJEAAAAM/discordgun-emoji.gif" width="25px" height="25px"/>
-  </h1>
-</div>
+# Hyde
 
-<h3 align="center">Some Stuff:</h3>
+Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-Full Stack Developer.
+![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
-- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Java" alt="Java" width="15" height="15"/> Android Developer
-- 🌱 I’m currently learning **Unreal Engine 5 (C++) | Unity (C#)**
 
+## Contents
+
+- [Usage](#usage)
+- [Options](#options)
+  - [Sidebar menu](#sidebar-menu)
+  - [Sticky sidebar content](#sticky-sidebar-content)
+  - [Themes](#themes)
+  - [Reverse layout](#reverse-layout)
+- [Development](#development)
+- [Author](#author)
+- [License](#license)
+
+
+## Usage
+
+Hyde is a theme built on top of [Poole](https://github.com/poole/poole), which provides a fully furnished Jekyll setup—just download and start the Jekyll server. See [the Poole usage guidelines](https://github.com/poole/poole#usage) for how to install and use Jekyll.
+
+
+## Options
+
+Hyde includes some customizable options, typically applied via classes on the `<body>` element.
+
+
+### Sidebar menu
+
+Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
+
+```
 ---
-
-<h3 align="center">🛠️ Languages and Tools:</h3>
-
-<div>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-</div>
-
+layout: page
+title: About
 ---
-  
-<h3 align="center">🏆 Repositorys:</h3>
-  
-<div align="center">
-  <a href="https://github.com/mdoradom/musiquitaapp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoradom&repo=musiquitaapp&theme=dark" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/mdoradom/documentacion">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoradom&repo=documentacion&theme=dark" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/mdoradom/TypingGame">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdoradom&repo=TypingGame&theme=dark" />
-  </a>
-</div>
-  
-<p align="left">
-  <br>
-  <a href="https://github.com/mdoradom?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
+```
 
----
+**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` layout.
 
-<h3 align="center">🧊 My Stats:</h3>
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdoradom&show_icons=true&locale=en&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdoradom&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdoradom&layout=compact&theme=dark" alt="Top Languages"></a>
+### Sticky sidebar content
+
+By default Hyde ships with a sidebar that affixes it's content to the bottom of the sidebar. You can optionally disable this by removing the `.sidebar-sticky` class from the sidebar's `.container`. Sidebar content will then normally flow from top to bottom.
+
+```html
+<!-- Default sidebar -->
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    ...
+  </div>
 </div>
-  
----
-  
-<h3 align="center">:mailbox: You can contact me via:</h3>
 
-<div align="center">
-  <a href="https://es.linkedin.com/in/mario-dorado-mart%C3%ADnez-82b187231"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario dorado martínez" height="30" width="40" /></a>
+<!-- Modified sidebar -->
+<div class="sidebar">
+  <div class="container">
+    ...
+  </div>
 </div>
+```
+
+
+### Themes
+
+Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
+
+![Hyde in red](https://f.cloud.github.com/assets/98681/1831229/42b0b354-7384-11e3-8462-31b8df193fe5.png)
+
+There are eight themes available at this time.
+
+![Hyde theme classes](https://f.cloud.github.com/assets/98681/1817044/e5b0ec06-6f68-11e3-83d7-acd1942797a1.png)
+
+To use a theme, add anyone of the available theme classes to the `<body>` element in the `default.html` layout, like so:
+
+```html
+<body class="theme-base-08">
+  ...
+</body>
+```
+
+To create your own theme, look to the Themes section of [included CSS file](https://github.com/poole/hyde/blob/master/public/css/hyde.css). Copy any existing theme (they're only a few lines of CSS), rename it, and change the provided colors.
+
+### Reverse layout
+
+![Hyde with reverse layout](https://f.cloud.github.com/assets/98681/1831230/42b0d3ac-7384-11e3-8d54-2065afd03f9e.png)
+
+Hyde's page orientation can be reversed with a single class.
+
+```html
+<body class="layout-reverse">
+  ...
+</body>
+```
+
+
+## Development
+
+Hyde has two branches, but only one is used for active development.
+
+- `master` for development.  **All pull requests should be submitted against `master`.**
+- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
+
+
+## Author
+
+**Mark Otto**
+- <https://github.com/mdo>
+- <https://twitter.com/mdo>
+
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+<3
