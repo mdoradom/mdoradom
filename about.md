@@ -3,11 +3,9 @@ layout: page
 title: About
 ---
 
-![](https://t4.ftcdn.net/jpg/01/02/80/73/360_F_102807319_yiZGhVkFloR2NtGAo7d6jZjbxMdET7OH.jpg)
+![](/assets/imagen.png)
 
 **Mario Dorado Martínez**
-
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a libero nulla. Nam suscipit mollis ligula vitae sagittis. Sed ligula quam, sollicitudin sed elit quis, iaculis congue tellus. Donec facilisis lacus at malesuada aliquam. Nulla metus massa, molestie nec bibendum a, congue faucibus est. Nunc at urna orci. Quisque gravida velit eu neque placerat, eget tempor turpis malesuada.
 
