@@ -19,7 +19,10 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.2.0
+version:          0.2.1
+
+download:
+  cv:             /assets/cv.pdf
 
 github:
   repo:           https://github.com/mdoradom/mdoradom

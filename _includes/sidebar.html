@@ -11,6 +11,8 @@
 
     <nav class="sidebar-nav">
 
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About</a>
+
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
@@ -25,9 +27,7 @@
         {% endif %}
       {% endfor %}
 
-      <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="{{ site.url }}">Projects</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-
+      <a class="sidebar-nav-item" href="{{ site.download.cv }}">Download CV</a>
     </nav>
 
     <div class="sidebar-icons">

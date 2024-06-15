@@ -1,37 +1,18 @@
 ---
 layout: default
-title: Home
+title: About
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<img src="/assets/imagen.png" alt="Image">
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<b>Mario Dorado Martínez</b>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a libero nulla. Nam suscipit mollis ligula vitae sagittis. Sed ligula quam, sollicitudin sed elit quis, iaculis congue tellus. Donec facilisis lacus at malesuada aliquam. Nulla metus massa, molestie nec bibendum a, congue faucibus est. Nunc at urna orci. Quisque gravida velit eu neque placerat, eget tempor turpis malesuada.
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+Cras quis augue lacinia, hendrerit purus in, blandit erat. Duis molestie, enim eu varius pellentesque, arcu neque vestibulum arcu, vitae blandit diam magna ac turpis. Ut vulputate at justo ut dignissim. Pellentesque placerat lectus purus, sed finibus erat facilisis eget. Sed sollicitudin, ipsum a condimentum mattis, erat turpis tempor enim, quis placerat neque nibh a arcu. Nullam molestie, odio sed imperdiet hendrerit, ipsum quam sollicitudin risus, sit amet efficitur nibh quam vitae sapien. Quisque ut vestibulum orci, sollicitudin posuere est. Nunc pretium commodo leo vel dignissim.
+
+Morbi eu semper massa. Nullam iaculis finibus lacinia. Nullam at maximus nibh, ac ullamcorper eros. Sed ac libero facilisis, fermentum ligula eu, vehicula sapien. Duis pharetra eros quis enim pretium tempor. Morbi laoreet sollicitudin ligula, semper auctor neque pretium in. Morbi viverra ipsum feugiat diam consequat facilisis. Nulla posuere ac dui et posuere. In in tempus neque. Aenean quis lorem quam. Sed luctus bibendum augue nec luctus. Vivamus hendrerit, neque placerat tempus blandit, libero odio varius neque, quis posuere sem elit in dui. Nam volutpat lacus vel dolor aliquam porta. Suspendisse ac tristique metus. Proin sodales mauris sit amet justo vehicula, faucibus mattis metus efficitur. Suspendisse dignissim lacinia tempor.
+
+Integer luctus, enim et euismod tempus, leo mi lobortis erat, vitae malesuada orci risus nec metus. Proin dapibus nisl eget auctor varius. Quisque mollis magna a ex lobortis dapibus. Proin dapibus augue at nunc imperdiet posuere. Quisque rutrum urna id consectetur porttitor. Nulla facilisi. Etiam viverra metus et risus facilisis, id facilisis dolor ullamcorper. Maecenas vitae tristique erat, sed blandit libero. In ultricies lacus mi, quis sodales ante hendrerit id. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer blandit, arcu nec interdum condimentum, dolor ex rhoncus tortor, sed aliquam est dolor molestie sapien. Nunc at bibendum purus, non venenatis libero. Praesent rutrum dolor non efficitur aliquet.
+
+Etiam eget libero a metus pharetra mollis. Nulla facilisi. Donec eleifend purus nec feugiat gravida. Sed euismod risus quis lacinia cursus. Aliquam ultrices pharetra nunc, non sodales turpis pretium ac. Proin sagittis mollis lectus mollis rhoncus. Sed eu consequat quam, in lobortis sapien. In lobortis odio non luctus tempor. Aenean mattis, eros ac tempus ornare, tellus mi vehicula quam, sit amet ullamcorper mauris libero a nisl. Morbi vitae ex venenatis, rutrum tellus eget, rutrum leo. 
