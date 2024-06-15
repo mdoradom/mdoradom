@@ -4,7 +4,6 @@ title: Contact
 ---
 
 <div class="contact-section">
-  <h3>Contact Me</h3>
   <p>Feel free to reach out to me through any of the following platforms:</p>
   
   <div class="contact-item">
