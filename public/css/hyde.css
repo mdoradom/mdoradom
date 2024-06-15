@@ -209,3 +209,26 @@ a.sidebar-nav-item:focus {
   font-size: 14px;
   font-weight: bold;
 }
+
+/* Contact
+ *
+ * Format the contact section
+ */
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.contact-item img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.contact-item span {
+  font-size: 16px;
+  line-height: 1.6;
+}

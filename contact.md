@@ -3,42 +3,49 @@ layout: page
 title: Contact
 ---
 
-Feel free to reach out to me through any of the following platforms:
+<div class="contact-section">
+  <h3>Contact Me</h3>
+  <p>Feel free to reach out to me through any of the following platforms:</p>
+  
+  <div class="contact-item">
+    <img src="/assets/icons/gmail-color.svg" alt="Email">
+    <span>
+      <b>Email</b><br>
+      <a href="mailto:mariodoradomartinez@gmail.com">mariodoradomartinez@gmail.com</a>
+    </span>
+  </div>
 
+  <div class="contact-item">
+    <img src="/assets/icons/linkedin-color.svg" alt="LinkedIn">
+    <span>
+      <b>LinkedIn</b><br>
+      <a href="https://www.linkedin.com/in/mario-dorado-martinez" target="_blank">linkedin.com/in/mario-dorado-martinez</a>
+    </span>
+  </div>
 
-![Email](/assets/icons/gmail.svg)
-<span>
-  **Email**<br>
-  [mariodoradomartinez@gmail.com](mailto:mariodoradomartinez@gmail.com)
-</span>
+  <div class="contact-item">
+    <img src="/assets/icons/github-color.svg" alt="GitHub">
+    <span>
+      <b>GitHub</b><br>
+      <a href="https://github.com/mdoradom" target="_blank">github.com/mdoradom</a>
+    </span>
+  </div>
 
-![LinkedIn](/assets/icons/linkedin.svg)
-<span>
-  **LinkedIn**<br>
-  [linkedin.com/in/mario-dorado-martinez](https://www.linkedin.com/in/mario-dorado-martinez)
-</span>
+  <div class="contact-item">
+    <img src="/assets/icons/itchdotio-color.svg" alt="Itch.io">
+    <span>
+      <b>Itch.io</b><br>
+      <a href="https://mdoradom.itch.io" target="_blank">mdoradom.itch.io</a>
+    </span>
+  </div>
 
-![GitHub](/assets/icons/github.svg)
-<span>
-  **GitHub**<br>
-  [github.com/mdoradom](https://github.com/mdoradom)
-</span>
+  <div class="contact-item">
+    <img src="/assets/icons/artstation-color.svg" alt="Artstation">
+    <span>
+      <b>Artstation</b><br>
+      <a href="https://www.artstation.com/themariogold" target="_blank">artstation.com/themariogold</a>
+    </span>
+  </div>
 
-![Itch.io](/assets/icons/itch-io.svg)
-<span>
-  **Itch.io**<br>
-  [mdoradom.itch.io](https://mdoradom.itch.io)
-</span>
-
-![Artstation](/assets/icons/artstation.svg)
-<span>
-  **Artstation**<br>
-  [artstation.com/themariogold](https://www.artstation.com/themariogold)
-</span>
-
-Fondo:              rgb(240, 240, 255)
-Texto Principal:    rgb(50, 50, 93)
-Texto Secundario:   rgb(80, 80, 113)
-Botones y Enlaces:  rgb(130, 130, 185)
-
-Looking forward to connecting with you!
+  <p>Looking forward to connecting with you!</p>
+</div>
