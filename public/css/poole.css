@@ -35,6 +35,15 @@
  * Update the foundational and global aspects of the page.
  */
 
+:root {
+  --color-text-light: #515151;
+  --color-background-light: #fff;
+  --color-text-dark: rgb(181, 174, 165);
+  --color-background-dark: rgb(24, 26, 27);
+  --color-header-light: #313131;
+  --color-header-dark: rgb(181, 174, 165);
+}
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -45,6 +54,7 @@ html,
 body {
   margin: 0;
   padding: 0;
+  transition: background-color 0.3s ease; /* Smooth transition */
 }
 
 html {
@@ -58,11 +68,18 @@ html {
   }
 }
 
+/* Modo claro por defecto */
 body {
-  color: #515151;
-  background-color: #fff;
+  color: var(--color-text-light);
+  background-color: var(--color-background-light);
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+}
+
+/* Modo oscuro */
+body.dark-mode {
+  color: var(--color-text-dark);
+  background-color: var(--color-background-dark);
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
@@ -79,14 +96,25 @@ a:focus {
   text-decoration: underline;
 }
 
-/* Headings */
+/* Headings light*/
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: var(--color-header-light);
   text-rendering: optimizeLegibility;
 }
+
+/* Headings dark */
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6 {
+  color: var(--color-header-dark);
+}
+
 h1 {
   font-size: 2rem;
 }
@@ -179,13 +207,26 @@ pre code {
   background-color: transparent;
 }
 
-/* Pygments via Jekyll */
+/* Pygments via Jekyll */ 
+/* Syntax highlighting light*/
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
 }
 .highlight pre {
   margin-bottom: 0;
+}
+
+/* Syntax highlighting dark */
+/* Syntax highlighting dark */
+body.dark-mode .highlight {
+  background-color: #2e2e2e;
+  border: 1px solid #3c3c3c;
+}
+body.dark-mode .highlight pre {
+  background-color: #2e2e2e;
+  color: #f8f8f2;
+  border-radius: 4px;
 }
 
 /* Gist via GitHub Pages */
@@ -426,5 +467,92 @@ a.pagination-item:hover {
     margin-left: -1px;
     border-top-right-radius:    4px;
     border-bottom-right-radius: 4px;
+  }
+}
+
+/* Toggle theme */
+
+/* Colors */
+:root {
+  --light-color: #fff; /* Light mode background */
+  --dark-color: rgb(24, 26, 27); /* Dark mode background */
+  --light-icon-color: #FFDE59; /* Light mode icon color */
+  --dark-icon-color: #fff; /* Dark mode icon color */
+}
+
+/* Base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  background-color: #fff;
+  width: 3em; /* Modified width */
+  height: 1.6em; /* Modified height */
+  border-radius: 2em; /* Modified border-radius */
+  padding: 0 0.1em; /* Modified padding */
+  box-shadow: inset 0 1.6px 12px rgba(0,0,0, .1), /* Modified box-shadow */
+              inset 0 1.6px 1.6px rgba(0,0,0, .1),
+              inset 0 -0.8px 0.8px rgba(0,0,0, .1);
+  position: relative;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.btn__indicator {
+  background-color: #fff;
+  width: 1.4em; /* Modified width */
+  height: 1.4em; /* Modified height */
+  border-radius: 50%;
+  position: absolute;
+  box-shadow: 0 1.6px 8px rgba(0,0,0, .2); /* Modified box-shadow */
+  transition: transform .3s ease;
+}
+
+.btn__icon-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn__icon {
+  color: var(--light-icon-color);
+  font-size: 0.6rem; /* Modified font-size */
+}
+
+/* Dark mode styles */
+body.dark-mode {
+  background-color: var(--dark-color); /* Dark mode background */
+}
+
+.dark-mode .btn {
+  box-shadow: inset 0 1.6px 12px rgba(0,0,0, .3), /* Modified box-shadow */
+              inset 1.6px 0 1.6px rgba(0,0,0, .3),
+              inset 0 -0.8px 0.8px rgba(0,0,0, .3);
+}
+
+.dark-mode .btn__indicator {
+  transform: translateX(1.4em); /* Modified transform */
+  background-color: var(--dark-color); /* Dark mode background */
+  box-shadow: 0 1.6px 8px rgba(0,0,0, .3); /* Modified box-shadow */
+}
+
+.dark-mode .btn__icon {
+  color: var(--dark-icon-color); /* Dark mode icon color */
+}
+
+/* Animation */
+.btn__icon.animated {
+  animation: spin 0.5s;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
   }
 }
