@@ -486,11 +486,6 @@ a.pagination-item:hover {
 }
 
 /* Base styles */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 .btn {
   background-color: #fff;
