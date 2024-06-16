@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.2.4
+version:          0.3.0
 
 download:
   cv:             /assets/mario_dorado_martinez_cv.pdf
@@ -30,3 +30,5 @@ github:
 plugins:
   - jekyll-paginate
   - gemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
