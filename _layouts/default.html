@@ -9,11 +9,12 @@
 
   <body>
     <script src="/public/js/theme-toggle.js"></script>
-
+    <script src="/public/js/toc.js"></script>
     {% include sidebar.html %}
 
     <div class="content container">
-      {{ content }}
+        <nav id="toc" class="toc"></nav>
+        {{ content }}
     </div>
 
   </body>

@@ -232,3 +232,51 @@ a.sidebar-nav-item:focus {
   font-size: 16px;
   line-height: 1.6;
 }
+
+/* TOC styles */
+@media only screen 
+and (max-device-width: 480px) {
+    .toc{ 
+        display:none;
+    }
+}
+
+.toc {
+  position: fixed;
+  top: 10%;
+  right: 1em;
+  max-height: 80%;
+  padding: 0;
+  background-color: transparent;
+  z-index: 1000;
+  font-family: 'Poppins', sans-serif;
+  text-align: right;
+}
+
+.toc ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.toc a {
+  display: block;
+  padding: 0.3em 0;
+  color: #333;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+/* Dark mode */
+body.dark-mode .toc a {
+  display: block;
+  padding: 0.3em 0;
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+.toc a:hover,
+.toc a.active {
+  font-weight: bold;
+}
