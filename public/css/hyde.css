@@ -81,6 +81,16 @@ html {
   display: inline-block;
 }
 
+.sidebar-icons a:hover {
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+  filter: invert(0.5) sepia(1) saturate(5) hue-rotate(175deg);
+}
+
+.sidebar-icons a:active {
+  transform: scale(1);
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #D9CAB0;
