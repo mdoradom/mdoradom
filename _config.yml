@@ -10,7 +10,7 @@ title:            mdoradom
 tagline:          'Portfolio'
 description:      'Creating games. Passionate about open source 💙'
 url:              http://mdoradom.github.io
-baseurl:          /
+baseurl:          /mdoradom/
 
 author:
   name:           'mdoradom'
