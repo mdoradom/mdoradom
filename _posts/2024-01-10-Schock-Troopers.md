@@ -23,14 +23,12 @@ title: Schock Troopers
   </div>
 </div>
 
-<p>Explore the project:</p>
+<h3>Explore the project:</h3>
 
-<ul>
-  <li><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers">GitHub Repository</a></li>
-  <li><a href="https://very-serious-games.github.io/Project1-Shock-Troopers/">Project Page</a></li>
-  <li><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/wiki">Wiki</a></li>
-</ul>
+<p>You can find more about the project on various platforms:</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers">GitHub Repository</a>: View the source code and development progress.</p>
+<p><a href="https://very-serious-games.github.io/Project1-Shock-Troopers/">Website</a>: Learn more about the game and its features.</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/wiki">Wiki</a>: Find detailed documentation and guides.</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/releases/tag/Release">GitHub Release</a>: Play the game and explore its releases.</p>
 
-<p>For more details, visit the <a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers">GitHub Repository</a> and play the game on <a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/releases/tag/Release">Github Release</a>.</p>
-
-<p>Thank you for exploring Schock Troopers!</p>
+<p>Thank you for exploring Shock Troopers!</p>

@@ -27,14 +27,11 @@ title: Puddle's Legacy
   </div>
 </div>  
 
-<p>Explore the project:</p>
+<h3>Explore the project:</h3>
 
-<ul>
-  <li><a href="https://github.com/Pistachio-Studios/Puddles-Legacy">GitHub Repository</a></li>
-  <li><a href="https://pistachio-studios.github.io/Puddles-Legacy/">Play Puddle's Legacy</a></li>
-  <li><a href="https://martagnarta.itch.io/puddles-legacy">Itch.io</a></li>
-</ul>
-
-<p>For more details, visit the <a href="https://github.com/Pistachio-Studios/Puddles-Legacy">GitHub Repository</a> and play the game on <a href="https://pistachio-studios.github.io/Puddles-Legacy/">our website</a> or <a href="https://martagnarta.itch.io/puddles-legacy">itch.io</a>.</p>
+<p>You can find more about the project on various platforms:</p>
+<p><a href="https://github.com/Pistachio-Studios/Puddles-Legacy">GitHub Repository</a>: View the source code and development progress.</p>
+<p><a href="https://pistachio-studios.github.io/Puddles-Legacy/">Website</a>: Play the game and find additional resources.</p>
+<p><a href="https://martagnarta.itch.io/puddles-legacy">Itch.io</a>: Enjoy the game and leave feedback.</p>
 
 <p>Thank you for exploring Puddle's Legacy!</p>

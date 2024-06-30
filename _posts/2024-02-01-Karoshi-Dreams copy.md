@@ -27,14 +27,11 @@ title: Karoshi Dreams
   </div>
 </div>
 
-<p>Explore the project:</p>
+<h3>Explore the project:</h3>
 
-<ul>
-  <li><a href="https://github.com/Very-Serious-Games/Karoshi-Dreams">GitHub Repository</a></li>
-  <li><a href="https://mdoradom.itch.io/karoshidreams">Play Karoshi Dreams</a></li>
-  <li><a href="https://itch.io/jam/7a-gran-citm-game-jam/">7th Gran CITM Game Jam</a></li>
-</ul>
-
-<p>For more details, visit the <a href="https://github.com/Very-Serious-Games/Karoshi-Dreams">GitHub Repository</a> and play the game on <a href="https://mdoradom.itch.io/karoshidreams">itch.io</a>.</p>
+<p>You can find more about the project on various platforms:</p>
+<p><a href="https://github.com/Very-Serious-Games/Karoshi-Dreams">GitHub Repository</a>: View the source code and development progress.</p>
+<p><a href="https://mdoradom.itch.io/karoshidreams">Itch.io</a>: Play the game and leave feedback.</p>
+<p><a href="https://itch.io/jam/7a-gran-citm-game-jam/">7th Gran CITM Game Jam</a>: Learn more about the event where the game was developed.</p>
 
 <p>Thank you for exploring Karoshi Dreams!</p>
