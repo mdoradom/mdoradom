@@ -25,7 +25,7 @@ title: Puddle's Legacy
       <span><b>SDL2</b></span>
     </div>
   </div>
-</div>
+</div>  
 
 <p>Explore the project:</p>
 
