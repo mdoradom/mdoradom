@@ -7,7 +7,7 @@ title: Schock Troopers
 
 ![](https://very-serious-games.github.io/Project1-Shock-Troopers/img/shock_troopers.jpg)
 
-<p>This project was developed for the Project 1 course during my first year of college. The goal was to recreate the game Shock Troopers within 4 months using our own game engine, utilizing C++ and SDL2.</p>
+<p>This project was developed for the <b>Project 1 course</b> during my first year of college. The goal was to recreate the game <b>Shock Troopers</b> within <b>4 months</b> using our own game engine, utilizing <b>C++</b> and <b>SDL2</b>.</p>
 
 <div class="skills-section">
   <h3>Technologies Used</h3>
@@ -26,9 +26,9 @@ title: Schock Troopers
 <h3>Explore the project:</h3>
 
 <p>You can find more about the project on various platforms:</p>
-<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers">GitHub Repository</a>: View the source code and development progress.</p>
-<p><a href="https://very-serious-games.github.io/Project1-Shock-Troopers/">Website</a>: Learn more about the game and its features.</p>
-<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/wiki">Wiki</a>: Find detailed documentation and guides.</p>
-<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/releases/tag/Release">GitHub Release</a>: Play the game and explore its releases.</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers"><b>GitHub Repository</b></a>: View the source code and development progress.</p>
+<p><a href="https://very-serious-games.github.io/Project1-Shock-Troopers/"><b>Website</b></a>: Learn more about the game and its features.</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/wiki"><b>Wiki</b></a>: Find detailed documentation and guides.</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/releases/tag/Release"><b>GitHub Release</b></a>: Play the game and explore its releases.</p>
 
-<p>Thank you for exploring Shock Troopers!</p>
+<p><b>Thank you for exploring Shock Troopers!</b></p>

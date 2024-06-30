@@ -7,7 +7,7 @@ title: Karoshi Dreams
 
 ![](https://img.itch.zone/aW1nLzE0ODkwNjIwLnBuZw==/original/f5XuqW.png)
 
-<p>Karoshi Dreams is a game developed for the 7th Gran CITM Game Jam, organized by CITM UPC with collaboration from GAMELOFT and SOCIAL POINT as judges. The game was created in just 5 days, exploring the Japanese term "karoshi" (death by overwork) within a surrealistic and dark atmosphere. The main theme of the jam was dreams and nightmares.</p>
+<p><b>Karoshi Dreams</b> is a game developed for the <b>7th Gran CITM Game Jam</b>, organized by <b>CITM UPC</b> with collaboration from <b>GAMELOFT</b> and <b>SOCIAL POINT</b> as judges. The game was created in just <b>5 days</b>, exploring the Japanese term "<b>karoshi</b>" (death by overwork) within a <b>surrealistic and dark atmosphere</b>. The main theme of the jam was <b>dreams and nightmares</b>.</p>
 
 <div class="skills-section">
   <h3>Technologies Used</h3>
@@ -30,8 +30,9 @@ title: Karoshi Dreams
 <h3>Explore the project:</h3>
 
 <p>You can find more about the project on various platforms:</p>
-<p><a href="https://github.com/Very-Serious-Games/Karoshi-Dreams">GitHub Repository</a>: View the source code and development progress.</p>
-<p><a href="https://mdoradom.itch.io/karoshidreams">Itch.io</a>: Play the game and leave feedback.</p>
-<p><a href="https://itch.io/jam/7a-gran-citm-game-jam/">7th Gran CITM Game Jam</a>: Learn more about the event where the game was developed.</p>
+<p><a href="https://github.com/Very-Serious-Games/Karoshi-Dreams"><b>GitHub Repository</b></a>: View the source code and development progress.</p>
+<p><a href="https://mdoradom.itch.io/karoshidreams"><b>Itch.io</b></a>: Play the game and leave feedback.</p>
+<p><a href="https://itch.io/jam/7a-gran-citm-game-jam/"><b>7th Gran CITM Game Jam</b></a>: Learn more about the event where the game was developed.</p>
 
-<p>Thank you for exploring Karoshi Dreams!</p>
+<p><b>Thank you for exploring Karoshi Dreams!</b></p>
+  
