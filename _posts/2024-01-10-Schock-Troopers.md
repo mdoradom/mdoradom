@@ -30,3 +30,7 @@ title: Schock Troopers
   <li><a href="https://very-serious-games.github.io/Project1-Shock-Troopers/">Project Page</a></li>
   <li><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/wiki">Wiki</a></li>
 </ul>
+
+<p>For more details, visit the <a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers">GitHub Repository</a> and play the game on <a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/releases/tag/Release">Github Release</a>.</p>
+
+<p>Thank you for exploring Schock Troopers!</p>

@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.5.1
+version:          0.5.3
 
 download:
   cv:             /assets/mario_dorado_martinez_cv.pdf

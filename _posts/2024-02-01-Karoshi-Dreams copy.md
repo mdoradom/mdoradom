@@ -5,9 +5,9 @@ title: Karoshi Dreams
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
-![](https://raw.githubusercontent.com/Very-Serious-Games/Karoshi-Dreams/dev/Project%20Liminal/Assets/Art/icon.png)
+![](https://img.itch.zone/aW1nLzE0ODkwNjIwLnBuZw==/original/f5XuqW.png)
 
-<p>Karoshi Dreams is a game developed for the 7th Gran CITM Game Jam, an event organized by CITM UPC, where participants strive to develop a video game based on the announced theme.</p>
+<p>Karoshi Dreams is a game developed for the 7th Gran CITM Game Jam, organized by CITM UPC with collaboration from GAMELOFT and SOCIAL POINT as judges. The game was created in just 5 days, exploring the Japanese term "karoshi" (death by overwork) within a surrealistic and dark atmosphere. The main theme of the jam was dreams and nightmares.</p>
 
 <div class="skills-section">
   <h3>Technologies Used</h3>
@@ -35,16 +35,6 @@ title: Karoshi Dreams
   <li><a href="https://itch.io/jam/7a-gran-citm-game-jam/">7th Gran CITM Game Jam</a></li>
 </ul>
 
-<h2>Game Jam Information</h2>
-
-<p>Welcome to the 7th Gran CITM Game Jam, an annual event where participants develop a video game based on a theme. This year's theme was "Dreams and Nightmares," exploring concepts like parallel realities, surrealism, instability, mirages, and chain reactions.</p>
-
-<p>The jam was held from January 26 to February 1, with online and onsite phases, including presentations and judging sessions. Participants had the opportunity to showcase their games and compete for various awards, including Best Game, Best Art, Best Technology, and Best Design.</p>
-
-<h3>Game Overview</h3>
-
-<p>Karoshi Dreams is a 3D game developed in Unity, focusing on ambiance and exploring the Japanese term "Karoshi" (death by overwork). The game delves into surrealistic environments and themes related to dreams and nightmares.</p>
-
-<p>For more details and updates, visit the <a href="https://github.com/Very-Serious-Games/Karoshi-Dreams">GitHub Repository</a> and play the game on <a href="https://mdoradom.itch.io/karoshidreams">itch.io</a>.</p>
+<p>For more details, visit the <a href="https://github.com/Very-Serious-Games/Karoshi-Dreams">GitHub Repository</a> and play the game on <a href="https://mdoradom.itch.io/karoshidreams">itch.io</a>.</p>
 
 <p>Thank you for exploring Karoshi Dreams!</p>
