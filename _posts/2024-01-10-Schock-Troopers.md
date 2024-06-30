@@ -32,3 +32,5 @@ title: Schock Troopers
 <p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/releases/tag/Release"><b>GitHub Release</b></a>: Play the game and explore its releases.</p>
 
 <p><b>Thank you for exploring Shock Troopers!</b></p>
+
+---

@@ -35,4 +35,5 @@ title: Karoshi Dreams
 <p><a href="https://itch.io/jam/7a-gran-citm-game-jam/"><b>7th Gran CITM Game Jam</b></a>: Learn more about the event where the game was developed.</p>
 
 <p><b>Thank you for exploring Karoshi Dreams!</b></p>
-  
+
+---

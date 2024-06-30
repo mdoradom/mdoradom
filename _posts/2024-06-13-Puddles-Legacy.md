@@ -35,3 +35,5 @@ title: Puddle's Legacy
 <p><a href="https://martagnarta.itch.io/puddles-legacy"><b>Itch.io</b></a>: Enjoy the game and leave feedback.</p>
 
 <p><b>Thank you for exploring Puddle's Legacy!</b></p>
+
+---
