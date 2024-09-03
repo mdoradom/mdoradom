@@ -10,7 +10,7 @@ title:            mdoradom
 tagline:          'Portfolio'
 description:      'Creating games. Based in Barcelona. Pro FOSS 💙'
 url:              /
-baseurl:          /
+baseurl:          /mdoradom
 
 author:
   name:           'mdoradom'
