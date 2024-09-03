@@ -10,7 +10,7 @@ title:            mdoradom
 tagline:          'Portfolio'
 description:      'Creating games. Based in Barcelona. Pro FOSS 💙'
 url:              /
-baseurl:          /mdoradom/
+baseurl:          /mdoradom
 
 author:
   name:           'mdoradom'
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.5.8
+version:          0.5.9
 
 download:
   cv:             /assets/mario_dorado_martinez_cv.pdf

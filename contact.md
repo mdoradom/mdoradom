@@ -7,7 +7,7 @@ title: Contact
   <p>Feel free to reach out to me through any of the following platforms:</p>
   
   <div class="contact-item">
-    <img src="/assets/icons/gmail-color.svg" alt="Email">
+    <img src="{{ site.baseurl }}/assets/icons/gmail-color.svg" alt="Email">
     <span>
       <b>Email</b><br>
       <a href="mailto:mariodoradomartinez@gmail.com">mariodoradomartinez@gmail.com</a>
@@ -15,7 +15,7 @@ title: Contact
   </div>
 
   <div class="contact-item">
-    <img src="/assets/icons/linkedin-color.svg" alt="LinkedIn">
+    <img src="{{ site.baseurl }}/assets/icons/linkedin-color.svg" alt="LinkedIn">
     <span>
       <b>LinkedIn</b><br>
       <a href="https://www.linkedin.com/in/mario-dorado-martinez" target="_blank">linkedin.com/in/mario-dorado-martinez</a>
@@ -23,7 +23,7 @@ title: Contact
   </div>
 
   <div class="contact-item">
-    <img src="/assets/icons/github-color.svg" alt="GitHub">
+    <img src="{{ site.baseurl }}/assets/icons/github-color.svg" alt="GitHub">
     <span>
       <b>GitHub</b><br>
       <a href="https://github.com/mdoradom" target="_blank">github.com/mdoradom</a>
@@ -31,7 +31,7 @@ title: Contact
   </div>
 
   <div class="contact-item">
-    <img src="/assets/icons/itchdotio-color.svg" alt="Itch.io">
+    <img src="{{ site.baseurl }}/assets/icons/itchdotio-color.svg" alt="Itch.io">
     <span>
       <b>Itch.io</b><br>
       <a href="https://mdoradom.itch.io" target="_blank">mdoradom.itch.io</a>
