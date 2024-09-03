@@ -10,11 +10,11 @@ title:            mdoradom
 tagline:          'Portfolio'
 description:      'Creating games. Based in Barcelona. Pro FOSS 💙'
 url:              /
-baseurl:          /mdoradom
+baseurl:          /mdoradom/
 
 author:
   name:           'mdoradom'
-  url:            https://twitter.com/mdoradom
+  url:            https://github.com/mdoradom/
 
 paginate:         5
 
