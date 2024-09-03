@@ -38,13 +38,5 @@ title: Contact
     </span>
   </div>
 
-  <div class="contact-item">
-    <img src="/assets/icons/artstation-color.svg" alt="Artstation">
-    <span>
-      <b>Artstation</b><br>
-      <a href="https://www.artstation.com/themariogold" target="_blank">artstation.com/themariogold</a>
-    </span>
-  </div>
-
   <p>Looking forward to connecting with you!</p>
 </div>

@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            mdoradom
 tagline:          'Portfolio'
-description:      'Creating games. Passionate about open source 💙'
-url:              http://mdoradom.github.io/mdoradom/
-baseurl:          https://mdoradom.github.io/mdoradom/
+description:      'Creating games. Based in Barcelona. Pro FOSS 💙'
+url:              /
+baseurl:          /
 
 author:
   name:           'mdoradom'
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.5.7
+version:          0.5.8
 
 download:
   cv:             /assets/mario_dorado_martinez_cv.pdf
