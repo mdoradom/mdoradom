@@ -40,3 +40,10 @@ validation-report.json
 # Folders to ignore
 node_modules
 /vendor
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+*.lock
