@@ -1,0 +1,9 @@
+global:
+  home: "Inicio"
+  about: "Sobre mí"
+  projects: "Proyectos"
+  contact: "Contacto"
+  download_cv: "Descargar CV"
+  toggle_theme: "Cambiar tema"
+  version: "Actualmente v"
+  license: "Hosteado por <a href='https://pages.github.com/'>GitHub Pages</a>. Código fuente de la web en <a href='https://github.com/mdoradom/mdoradom'>GitHub</a>. Bajo"

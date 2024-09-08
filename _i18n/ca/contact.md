@@ -1,8 +1,3 @@
----
-layout: page
-title: Contact
----
-
 <div class="contact-section">
   <p>Feel free to reach out to me through any of the following platforms:</p>
   

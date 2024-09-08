@@ -1,59 +1,61 @@
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}/">
-          {{ site.title }}
-        </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
-    </div>
-
-    <nav class="sidebar-nav">
-
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">About</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+<aside class="sidebar">
+  <div class="sidebar-header">
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+  </div>
+  <nav class="sidebar-nav">
+    <a href="{{ '/' | relative_url }}" class="nav-item">
+      <i data-feather="home"></i>
+      <span>{% t global.home %}</span>
+    </a>
+    <a href="{{ '/about/' | relative_url }}" class="nav-item">
+      <i data-feather="user"></i>
+      <span>{% t global.about %}</span>
+    </a>
+    <a href="{{ '/projects/' | relative_url }}" class="nav-item">
+      <i data-feather="folder"></i>
+      <span>{% t global.projects %}</span>
+    </a>
+    <a href="{{ '/contact/' | relative_url }}" class="nav-item">
+      <i data-feather="mail"></i>
+      <span>{% t global.contact %}</span>
+    </a>
+    <a href="{{ site.baseurl_root }}{{ site.download.cv }}" class="nav-item">
+      <i data-feather="download"></i>
+      <span>{% t global.download_cv %}</span>
+    </a>
+  </nav>
+  <div class="sidebar-footer">
+    <div class="language-selector">
+      {% for lang in site.languages %}
+        {% if lang == site.lang %}
+          <span class="active-lang">{{ lang }}</span>
+        {% else %}
+          {% if lang == site.default_lang %}
+            <a href="{{ site.baseurl_root }}{{ page.url }}">{{ lang }}</a>
+          {% else %}
+            <a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}">{{ lang }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}{{ site.download.cv }}">Download CV</a>
-    </nav>
-
-    <div class="sidebar-icons">
-      <a href="mailto:mariodoradomartinez@gmail.com">
-        <img src="{{ site.baseurl }}/assets/icons/gmail.svg" alt="Gmail">
-      </a>
-      <a href="https://www.linkedin.com/in/mario-dorado-martinez">
-        <img src="{{ site.baseurl }}/assets/icons/linkedin.svg" alt="LinkedIn">
-      </a>
-      <a href="https://github.com/mdoradom">
-        <img src="{{ site.baseurl }}/assets/icons/github.svg" alt="GitHub">
-      </a>
-      <a href="https://mdoradom.itch.io">
-        <img src="{{ site.baseurl }}/assets/icons/itch-io.svg" alt="Itch.io">
-      </a>
     </div>
-
-    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
-
-    <p style="font-size: 12px;">&copy; {{ site.time | date: '%Y' }} Mario Dorado Martínez. Hosted by <a href="https://pages.github.com/"> GitHub Pages</a>. Website<a href="https://github.com/mdoradom/mdoradom"> source code on GitHub</a>.</p>
-
-    <div class="btn">
-      <div class="btn__indicator"></div>
-      <div class="btn__icon-container">
-        <i class="btn__icon fas fa-sun"></i> <!-- Default icon -->
-      </div>
+    <button id="theme-toggle" class="theme-toggle">
+      <i data-feather="sun" class="light-icon"></i>
+      <i data-feather="moon" class="dark-icon"></i>
+      <span>{% t global.toggle_theme %}</span>
+    </button>
+    <p class="version">{% t global.version %}{{ site.version }}</p>
+    <p class="license">&copy; {{ site.time | date: '%Y' }} Mario Dorado Martínez. {% t global.license %} {{ site.license }}</p>
+    <div class="social-links">
+      <a href="{{ site.github_url }}" target="_blank" rel="noopener noreferrer">
+        <i data-feather="github"></i>
+      </a>
+      <a href="{{ site.linkedin_url }}" target="_blank" rel="noopener noreferrer">
+        <i data-feather="linkedin"></i>
+      </a>
+      <a href="{{ site.twitter_url }}" target="_blank" rel="noopener noreferrer">
+        <i data-feather="twitter"></i>
+      </a>
     </div>
   </div>
-</div>
+</aside>

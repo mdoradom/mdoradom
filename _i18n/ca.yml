@@ -1,0 +1,9 @@
+global:
+  home: "Inici"
+  about: "Sobre mi"
+  projects: "Projectes"
+  contact: "Contacte"
+  download_cv: "Descarrega el CV"
+  toggle_theme: "Canviar tema"
+  version: "Versió actual v"
+  license: "Allotjat per <a href='https://pages.github.com/'>GitHub Pages</a>. Codi font del lloc web a <a href='https://github.com/mdoradom/mdoradom'>GitHub</a>. Sota"

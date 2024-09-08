@@ -2,24 +2,35 @@
 markdown:         kramdown
 highlighter:      rouge
 
+# Markdown Processors
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            mdoradom
+title: >-
+  &lt;&gt;<br>mdoradom
+email: tu@email.com
 tagline:          'Portfolio'
-description:      'Creating games. Based in Barcelona. Pro FOSS 💙'
-url:              /
+description: >-
+  // Creating games. Based in Barcelona. Pro FOSS 💙
+url:              "https://mdoradom.github.io/mdoradom"
 baseurl:          /mdoradom
+github_username:  mdoradom
+linkedin_username: mario-dorado-martinez
+version:          0.7.0
+license:          GPLv3
+github_url: https://github.com/mdoradom
+linkedin_url: https://www.linkedin.com/in/mario-dorado-martinez/
+twitter_url: https://mastodon.social/@mdoradom
 
 author:
   name:           'mdoradom'
   url:            https://github.com/mdoradom/
-
-paginate:         5
-
-# Custom vars
-version:          0.5.9
 
 download:
   cv:             /assets/mario_dorado_martinez_cv.pdf
@@ -28,7 +39,13 @@ github:
   repo:           https://github.com/mdoradom/mdoradom
 
 plugins:
-  - jekyll-paginate
   - gemoji
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-multiple-languages-plugin
+  - jekyll-feed
+
+# Multilanguage settings
+languages: ["es", "en", "ca"]
+default_lang: "es"
+exclude_from_localization: ["javascript", "images", "css"]

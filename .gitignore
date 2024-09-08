@@ -47,3 +47,4 @@ _site
 .jekyll-metadata
 vendor
 *.lock
+Gemfile.lock

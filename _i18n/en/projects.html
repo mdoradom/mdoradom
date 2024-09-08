@@ -1,0 +1,6 @@
+Projects
+
+{% for project in site.projects %}
+  <h2>{{ project.title | translate }}</h2>
+  <p>{{ project.description | translate }}</p>
+{% endfor %}
