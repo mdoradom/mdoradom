@@ -49,3 +49,15 @@ plugins:
 languages: ["es", "en", "ca"]
 default_lang: "es"
 exclude_from_localization: ["javascript", "images", "css"]
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"

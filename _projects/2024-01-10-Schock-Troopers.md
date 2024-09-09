@@ -1,6 +1,13 @@
 ---
-layout: post
+layout: project
 title: Schock Troopers
+date: 2024-01-10
+image: /assets/1.jpg
+description: "A thrilling adventure game set in a dystopian future."
+technologies:
+  - Unity
+  - C#
+  - Blender
 ---
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
