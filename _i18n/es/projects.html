@@ -1,17 +1,30 @@
 <h1>Proyectos</h1>
 
-<div class="posts">
+<div class="projects-grid">
     {% for post in site.posts %}
-    <div class="post">
-        <h1 class="post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-        </a>
-        </h1>
-
-        <span class="post-date">{{ post.date | date_to_string }}</span>
-
-        {{ post.content }}
+    <div class="project-card">
+        <div class="project-image-container">
+            {% if post.image %}
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="project-image">
+            {% else %}
+            <img src="/path/to/default-image.jpg" alt="Default project image" class="project-image">
+            {% endif %}
+        </div>
+        <div class="project-content">
+            <h2 class="project-title">
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h2>
+            <span class="project-date">{{ post.date | date_to_string }}</span>
+            {% if post.technologies %}
+            <div class="project-technologies">
+                {% for tech in post.technologies %}
+                <span class="tech-tag">{{ tech }}</span>
+                {% endfor %}
+            </div>
+            {% endif %}
+            <p class="project-description">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            <a href="{{ post.url | relative_url }}" class="read-more">Leer más</a>
+        </div>
     </div>
     {% endfor %}
 </div>

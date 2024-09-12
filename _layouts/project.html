@@ -2,26 +2,28 @@
 layout: default
 ---
 
-<article class="project">
-  <header>
-    <h1>{{ page.title }}</h1>
-    <p class="project-date">{{ page.date | date: "%B %Y" }}</p>
-  </header>
-
-  {% if page.image %}
+<article class="project-page">
+  <div class="project-image-container">
+    {% if page.image %}
     <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="project-image">
-  {% endif %}
-
-  <div class="project-content">
-    {{ content }}
+    {% else %}
+    <img src="/path/to/default-image.jpg" alt="Default project image" class="project-image">
+    {% endif %}
   </div>
 
-  <footer>
-    <h3>Technologies Used:</h3>
-    <ul class="technologies-list">
-      {% for tech in page.technologies %}
-        <li>{{ tech }}</li>
-      {% endfor %}
-    </ul>
-  </footer>
+  <h1 class="project-title">{{ page.title }}</h1>
+  
+  <p class="project-date">{{ page.date | date_to_string }}</p>
+  
+  {% if page.technologies %}
+  <div class="project-technologies">
+    {% for tech in page.technologies %}
+    <span class="tech-tag">{{ tech }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="project-description">
+    {{ content }}
+  </div>
 </article>
