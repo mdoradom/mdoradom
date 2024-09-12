@@ -1,11 +1,15 @@
 ---
-layout: post
+layout: project
 title: Puddle's Legacy
+date: 2024-06-13
+image: /assets/img/puddles_legacy.png
+description: "A thrilling adventure game set in a dystopian future."
+technologies:
+  - C++
+  - SDL2
 ---
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
-
-![](https://raw.githubusercontent.com/Pistachio-Studios/Puddles-Legacy/dev/bin/Assets/Textures/Puddles_Legacy.png)
 
 <p><b>Puddle's Legacy</b> is a single-player real-time action role-playing game (RPG) set in a fantasy world. Sabrina must follow the footsteps of her missing father to fill a magical book of beasts by exploring very dangerous terrain. Will Sabrina manage to find her father in this adventure?</p>
 

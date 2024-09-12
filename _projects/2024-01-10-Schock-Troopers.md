@@ -2,17 +2,14 @@
 layout: project
 title: Schock Troopers
 date: 2024-01-10
-image: /assets/1.jpg
+image: /assets/img/shock_troopers.jpg
 description: "A thrilling adventure game set in a dystopian future."
 technologies:
-  - Unity
-  - C#
-  - Blender
+  - C++
+  - SDL2
 ---
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
-
-![](https://very-serious-games.github.io/Project1-Shock-Troopers/img/shock_troopers.jpg)
 
 <p>This project was developed for the <b>Project 1 course</b> during my first year of college. The goal was to recreate the game <b>Shock Troopers</b> within <b>4 months</b> using our own game engine, utilizing <b>C++</b> and <b>SDL2</b>.</p>
 

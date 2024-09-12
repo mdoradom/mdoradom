@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: project
 title: Karoshi Dreams
+date: 2024-02-01
+image: /assets/img/karoshi_dreams.png
+description: "A thrilling adventure game set in a dystopian future."
+technologies:
+  - Unity
+  - C#
+  - Blender
 ---
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
-
-![](https://img.itch.zone/aW1nLzE0ODkwNjIwLnBuZw==/original/f5XuqW.png)
 
 <p><b>Karoshi Dreams</b> is a game developed for the <b>7th Gran CITM Game Jam</b>, organized by <b>CITM UPC</b> with collaboration from <b>GAMELOFT</b> and <b>SOCIAL POINT</b> as judges. The game was created in just <b>5 days</b>, exploring the Japanese term "<b>karoshi</b>" (death by overwork) within a <b>surrealistic and dark atmosphere</b>. The main theme of the jam was <b>dreams and nightmares</b>.</p>
 

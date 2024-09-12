@@ -17,39 +17,83 @@ skills = {
 
 ## Proyectos Notables
 
-TODO Añadir tarjetas con proyectos
+<div class="projects-grid">
+  <div class="project-card">
+    <h3><a href="{{ site.baseurl_root }}/projects/2024-01-10-schock-troopers">Shock Troopers</a></h3>
+    <p>Recreación del juego clásico usando C++ y SDL2.</p>
+  </div>
+  <div class="project-card">
+    <h3><a href="{{ site.baseurl_root }}/projects/2024-02-01-karoshi-dreams">Karoshi Dreams</a></h3>
+    <p>Juego de plataformas 2D desarrollado en Unity.</p>
+  </div>
+  <div class="project-card">
+    <h3><a href="{{ site.baseurl_root }}/projects/2024-06-13-puddles-legacy">Puddles Legacy</a></h3>
+    <p>Sistema de inventario modular para juegos RPG.</p>
+  </div>
+</div>
 
 ## Educación
 
-<h3>Grado en Diseño y Desarrollo de Videojuegos</h3>
-<p><b>Centre de la Imatge i la Tecnologia Multimèdia (CITM UPC)</b><br>
-  <i>2022 - 2026</i></p>
-
-<h3>Técnico Superior en Programación de Aplicaciones Multiplataforma</h3>
-<p><b>Institut Escola del Treball</b><br>
-  <i>2020 - 2022</i></p>
-
-<h3>Técnico en Administración de Redes y Sistemas</h3>
-<p><b>Institut Escola del Treball</b><br>
-<i>2018 - 2020</i></p>
+<div class="education-grid">
+  <div class="education-item">
+    <h3>Grado en Diseño y Desarrollo de Videojuegos</h3>
+    <p><strong>Centre de la Imatge i la Tecnologia Multimèdia (CITM UPC)</strong></p>
+    <p><em>2022 - 2026</em></p>
+  </div>
+  
+  <div class="education-item">
+    <h3>Técnico Superior en Programación de Aplicaciones Multiplataforma</h3>
+    <p><strong>Institut Escola del Treball</strong></p>
+    <p><em>2020 - 2022</em></p>
+  </div>
+  
+  <div class="education-item">
+    <h3>Técnico en Administración de Redes y Sistemas</h3>
+    <p><strong>Institut Escola del Treball</strong></p>
+    <p><em>2018 - 2020</em></p>
+  </div>
+</div>
 
 ## Experiencia
 
-<h3>Desarrollador Full Stack</h3>
-<p><b>TAS Consultoría</b><br>
-  <i>7 meses</i><br>
-  Jornada completa</p>
+<div class="experience-grid">
+  <div class="experience-item">
+    <h3>Desarrollador Full Stack</h3>
+    <p><strong>TAS Consultoría</strong></p>
+    <p><em>7 meses - Jornada completa</em></p>
+    <ul>
+      <li>Desarrollo de aplicaciones web utilizando tecnologías modernas</li>
+      <li>Colaboración en proyectos de consultoría IT</li>
+    </ul>
+  </div>
 
-<h3>Administrador de Sistemas</h3>
-<p><b>INS Can Mas</b><br>
-  <i>4 meses</i><br>
-  Prácticas</p>  
+  <div class="experience-item">
+    <h3>Administrador de Sistemas</h3>
+    <p><strong>INS Can Mas</strong></p>
+    <p><em>4 meses - Prácticas</em></p>
+    <ul>
+      <li>Mantenimiento y configuración de sistemas informáticos</li>
+      <li>Soporte técnico a usuarios</li>
+    </ul>
+  </div>
 
-<h3>Asesor de Productos</h3>
-<p><b>SALESLAND</b><br>
-  <i>3 meses</i><br>
-  Media jornada</p>
+  <div class="experience-item">
+    <h3>Asesor de Productos</h3>
+    <p><strong>SALESLAND</strong></p>
+    <p><em>3 meses - Media jornada</em></p>
+    <ul>
+      <li>Asesoramiento y venta de productos tecnológicos</li>
+      <li>Atención al cliente y resolución de consultas</li>
+    </ul>
+  </div>
 
-<p><b>Beonit</b><br>
-  <i>4 meses</i><br>
-  Media jornada</p>
+  <div class="experience-item">
+    <h3>Asesor de Productos</h3>
+    <p><strong>Beonit</strong></p>
+    <p><em>4 meses - Media jornada</em></p>
+    <ul>
+      <li>Venta y promoción de servicios de telecomunicaciones</li>
+      <li>Gestión de cartera de clientes</li>
+    </ul>
+  </div>
+</div>
