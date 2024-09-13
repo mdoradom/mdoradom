@@ -426,3 +426,54 @@ a {
     padding: 10px;
   }
 }
+
+.contact-section {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.email-container {
+  margin-bottom: 20px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.email {
+  font-family: serif;
+  font-size: 1.2rem;
+  color: #333;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.3s ease;
+
+  &:hover {
+    border-bottom-color: #333;
+  }
+}
+
+.copy-feedback {
+  font-size: 0.8rem;
+  color: #4CAF50;
+  margin-left: 10px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+
+  a {
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  img {
+    width: 24px;
+    height: 24px;
+  }
+}
