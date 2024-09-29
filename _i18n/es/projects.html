@@ -1,30 +1,19 @@
 <h1 class="page-title">Proyectos</h1>
 
 <div class="projects-grid">
-    {% for post in site.posts %}
-    <div class="project-card">
-        <div class="project-image-container">
-            {% if post.image %}
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="project-image">
-            {% else %}
-            <img src="/path/to/default-image.jpg" alt="Default project image" class="project-image">
-            {% endif %}
+    {% for project in site.projects %}
+      <a href="{{ project.url | relative_url }}" class="project-card">
+        {% if project.image %}
+          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" class="project-image">
+        {% endif %}
+        <h2>{{ project.title }}</h2>
+        <p class="project-date">{{ project.date | date: "%B %Y" }}</p>
+        <p class="project-description">{{ project.description }}</p>
+        <div class="project-technologies">
+          {% for tech in project.technologies %}
+            <span class="tech-tag">{{ tech }}</span>
+          {% endfor %}
         </div>
-        <div class="project-content">
-            <h2 class="project-title">
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </h2>
-            <span class="project-date">{{ post.date | date: "%d %B %Y" }}</span>
-            {% if post.technologies %}
-            <div class="project-technologies">
-                {% for tech in post.technologies %}
-                <span class="tech-tag">{{ tech }}</span>
-                {% endfor %}
-            </div>
-            {% endif %}
-            <p class="project-description">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
-            <a href="{{ post.url | relative_url }}" class="read-more">Leer más</a>
-        </div>
-    </div>
+      </a>
     {% endfor %}
-</div>
+  </div>
