@@ -1,37 +1,44 @@
 <div class="contact-section">
-  <p>Feel free to reach out to me through any of the following platforms:</p>
+  <h1>Contact</h1>
   
-  <div class="contact-item">
-    <img src="{{ site.baseurl }}/assets/icons/gmail-color.svg" alt="Email">
-    <span>
-      <b>Email</b><br>
-      <a href="mailto:mariodoradomartinez@gmail.com">mariodoradomartinez@gmail.com</a>
-    </span>
+  <p class="contact-intro">Feel free to contact me through any of these platforms:</p>
+
+  <div class="email-container" id="emailContainer">
+    <span class="email" id="emailText">mariodoradomartinez@gmail.com</span>
+    <span class="copy-feedback" id="copyFeedback"></span>
   </div>
 
-  <div class="contact-item">
-    <img src="{{ site.baseurl }}/assets/icons/linkedin-color.svg" alt="LinkedIn">
-    <span>
-      <b>LinkedIn</b><br>
-      <a href="https://www.linkedin.com/in/mario-dorado-martinez" target="_blank">linkedin.com/in/mario-dorado-martinez</a>
-    </span>
+  <div class="social-icons">
+    <a href="https://www.linkedin.com/in/mario-dorado-martinez" target="_blank" rel="noopener noreferrer">
+      <img src="{{ site.baseurl }}/assets/icons/linkedin-color.svg" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/mdoradom" target="_blank" rel="noopener noreferrer">
+      <img src="{{ site.baseurl }}/assets/icons/github-color.svg" alt="GitHub">
+    </a>
+    <a href="https://mdoradom.itch.io" target="_blank" rel="noopener noreferrer">
+      <img src="{{ site.baseurl }}/assets/icons/itchdotio-color.svg" alt="Itch.io">
+    </a>
   </div>
 
-  <div class="contact-item">
-    <img src="{{ site.baseurl }}/assets/icons/github-color.svg" alt="GitHub">
-    <span>
-      <b>GitHub</b><br>
-      <a href="https://github.com/mdoradom" target="_blank">github.com/mdoradom</a>
-    </span>
-  </div>
-
-  <div class="contact-item">
-    <img src="{{ site.baseurl }}/assets/icons/itchdotio-color.svg" alt="Itch.io">
-    <span>
-      <b>Itch.io</b><br>
-      <a href="https://mdoradom.itch.io" target="_blank">mdoradom.itch.io</a>
-    </span>
-  </div>
-
-  <p>Looking forward to connecting with you!</p>
+  <p class="contact-outro">I hope to connect with you soon!</p>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const emailContainer = document.getElementById('emailContainer');
+    const emailText = document.getElementById('emailText');
+    const copyFeedback = document.getElementById('copyFeedback');
+
+    emailContainer.addEventListener('click', function() {
+      const email = emailText.textContent;
+      navigator.clipboard.writeText(email).then(function() {
+        copyFeedback.textContent = 'Copied!';
+        setTimeout(function() {
+          copyFeedback.textContent = '';
+        }, 2000);
+      }).catch(function(err) {
+        console.error('Error copying the email: ', err);
+      });
+    });
+  });
+</script>
