@@ -13,7 +13,7 @@ layout: default
 
   <h1 class="project-title">{{ page.title }}</h1>
   
-  <p class="project-date">{{ page.date | date_to_string }}</p>
+  <p class="project-date">{{ page.date | date: "%d %B %Y" }}</p>
   
   {% if page.technologies %}
   <div class="project-technologies">

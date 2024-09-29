@@ -1,4 +1,4 @@
-<h1>Proyectos</h1>
+<h1 class="page-title">Proyectos</h1>
 
 <div class="projects-grid">
     {% for post in site.posts %}
@@ -14,7 +14,7 @@
             <h2 class="project-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h2>
-            <span class="project-date">{{ post.date | date_to_string }}</span>
+            <span class="project-date">{{ post.date | date: "%d %B %Y" }}</span>
             {% if post.technologies %}
             <div class="project-technologies">
                 {% for tech in post.technologies %}
@@ -22,7 +22,7 @@
                 {% endfor %}
             </div>
             {% endif %}
-            <p class="project-description">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            <p class="project-description">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
             <a href="{{ post.url | relative_url }}" class="read-more">Leer más</a>
         </div>
     </div>
