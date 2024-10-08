@@ -6,12 +6,12 @@
 
 {% highlight lua %}
 skills = {
-    game_dev_languages = {"C++", "C", "C#"},
-    languages = {"Java", "Bash", "JavaScript", "Python"},
-    game_engines = {"Unity", "Godot"},
-    vcs = {"Git", "GitHub", "GitLab"},
-    databases = {"PostgreSQL", "MySQL", "MongoDB"},
-    other = {"Linux", "Docker", "Markdown"}
+  game_dev_languages = {"C++", "C", "C#"},
+  languages = {"Java", "Bash", "JavaScript", "Python"},
+  game_engines = {"Unity", "Godot"},
+  vcs = {"Git", "GitHub", "GitLab"},
+  databases = {"PostgreSQL", "MySQL", "MongoDB"},
+  other = {"Linux", "Docker", "Markdown"}
 }
 {% endhighlight %}
 
