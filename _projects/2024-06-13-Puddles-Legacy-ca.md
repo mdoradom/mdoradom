@@ -2,6 +2,7 @@
 layout: project
 title: Puddle's Legacy
 date: 2024-06-13
+lang: ca
 image: /assets/img/puddles_legacy.png
 description: "A thrilling adventure game set in a dystopian future."
 technologies:

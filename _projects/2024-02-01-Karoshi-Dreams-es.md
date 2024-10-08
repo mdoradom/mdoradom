@@ -2,6 +2,7 @@
 layout: project
 title: Karoshi Dreams
 date: 2024-02-01
+lang: es
 image: /assets/img/karoshi_dreams.png
 description: "A thrilling adventure game set in a dystopian future."
 technologies:

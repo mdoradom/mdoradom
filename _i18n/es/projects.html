@@ -1,7 +1,8 @@
 <h1 class="page-title">Proyectos</h1>
 
 <div class="projects-grid">
-    {% for project in site.projects %}
+  {% for project in site.projects %}
+    {% if project.lang == "es" %}
       <a href="{{ project.url | relative_url }}" class="project-card">
         {% if project.image %}
           <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" class="project-image">
@@ -15,5 +16,6 @@
           {% endfor %}
         </div>
       </a>
-    {% endfor %}
-  </div>
+    {% endif %}
+  {% endfor %}
+</div>

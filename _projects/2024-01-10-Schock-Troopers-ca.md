@@ -2,6 +2,7 @@
 layout: project
 title: Schock Troopers
 date: 2024-01-10
+lang: ca
 image: /assets/img/shock_troopers.jpg
 description: "A thrilling adventure game set in a dystopian future."
 technologies:
