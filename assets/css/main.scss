@@ -306,6 +306,10 @@ a strong {
   display: flex;
   flex-direction: column;
   height: 100%;
+
+  > * {
+    margin: 10px;
+  }
 }
 
 .project-card:hover {
