@@ -4,7 +4,7 @@ title: Puddle's Legacy
 date: 2024-06-13
 lang: es
 image: /assets/img/puddles_legacy.png
-description: "Cosa en castellano"
+description: "Un juego realizado por 20 alumnos de los grados de Desarrollo de Videojuegos y Arte Digital y Animación."
 technologies:
   - C++
   - SDL2

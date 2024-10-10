@@ -4,7 +4,7 @@ title: Schock Troopers
 date: 2024-01-10
 lang: ca
 image: /assets/img/shock_troopers.jpg
-description: "A thrilling adventure game set in a dystopian future."
+description: "Un clon del llegendari joc d'arcade de la Neo-Geo. Creat des de zero amb SDL2 i C++"
 technologies:
   - C++
   - SDL2

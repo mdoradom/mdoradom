@@ -4,7 +4,7 @@ title: Schock Troopers
 date: 2024-01-10
 lang: en
 image: /assets/img/shock_troopers.jpg
-description: "A thrilling adventure game set in a dystopian future."
+description: "A clone of the legendary Neo-Geo arcade game. Created from scratch with SDL2 and C++"
 technologies:
   - C++
   - SDL2

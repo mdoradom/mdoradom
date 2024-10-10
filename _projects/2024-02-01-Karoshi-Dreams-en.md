@@ -4,7 +4,7 @@ title: Karoshi Dreams
 date: 2024-02-01
 lang: en
 image: /assets/img/karoshi_dreams.png
-description: "A thrilling adventure game set in a dystopian future."
+description: "A Game made for the 7th Gran CITM Game Jam: Gamble with the devil while you work yourself to death."
 technologies:
   - Unity
   - C#
