@@ -5,6 +5,7 @@ date: 2024-06-13
 lang: en
 image: /assets/img/puddles_legacy.png
 description: "A game made by 20 students from the Game Development & Digital Art and Animation degrees."
+categories: en posts
 technologies:
   - C++
   - SDL2

@@ -46,15 +46,15 @@ plugins:
   - jekyll-feed
 
 # Multilanguage settings
-languages: ["es", "en", "ca"]
-default_lang: "es"
+languages: ["en", "es", "ca"]
+default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 
 collections:
   projects:
     output: true
     permalink: /projects/:name/
-
+    
 defaults:
   - scope:
       path: ""

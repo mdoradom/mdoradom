@@ -2,9 +2,10 @@
 layout: project
 title: Karoshi Dreams
 date: 2024-02-01
-lang: ca
+lang: es
 image: /assets/img/karoshi_dreams.png
-description: "Un joc creat per la 7th Gran CITM Game Jam: Aposta amb el diable mentre treballes fins a la mort."
+description: "Un juego creado para la 7th Gran CITM Game Jam: Apuesta con el diablo mientras trabajas hasta morir."
+categories: es posts
 technologies:
   - Unity
   - C#

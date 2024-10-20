@@ -4,7 +4,8 @@ title: Puddle's Legacy
 date: 2024-06-13
 lang: es
 image: /assets/img/puddles_legacy.png
-description: "Un juego realizado por 20 alumnos de los grados de Desarrollo de Videojuegos y Arte Digital y Animación."
+description: "Un juego hecho por 20 alumnos de Desarrollo de Videojuegos y Arte Digital y Animación."
+categories: es posts
 technologies:
   - C++
   - SDL2
@@ -40,4 +41,3 @@ technologies:
 <p><a href="https://martagnarta.itch.io/puddles-legacy"><b>Itch.io</b></a>: Disfruta del juego y deja tus comentarios.</p>
 
 <p><b>¡Gracias por explorar Legado de Puddle!</b></p>
-

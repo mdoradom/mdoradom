@@ -5,6 +5,7 @@ date: 2024-02-01
 lang: en
 image: /assets/img/karoshi_dreams.png
 description: "A Game made for the 7th Gran CITM Game Jam: Gamble with the devil while you work yourself to death."
+categories: en posts
 technologies:
   - Unity
   - C#

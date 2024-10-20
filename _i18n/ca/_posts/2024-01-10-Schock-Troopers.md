@@ -5,6 +5,7 @@ date: 2024-01-10
 lang: ca
 image: /assets/img/shock_troopers.jpg
 description: "Un clon del llegendari joc d'arcade de la Neo-Geo. Creat des de zero amb SDL2 i C++"
+categories: ca posts
 technologies:
   - C++
   - SDL2

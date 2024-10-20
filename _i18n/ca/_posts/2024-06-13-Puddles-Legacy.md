@@ -5,6 +5,7 @@ date: 2024-06-13
 lang: ca
 image: /assets/img/puddles_legacy.png
 description: "Un joc fet per 20 estudiants dels graus de Desenvolupament de Jocs i Art Digital i Animació."
+categories: ca posts
 technologies:
   - C++
   - SDL2
