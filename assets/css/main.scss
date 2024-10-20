@@ -11,6 +11,7 @@
   --accent-color: #3498db;
   --sidebar-width: 300px;
   --sidebar-bg-light-theme: #233144;
+  --sidebar-bg-dark-theme: #111314;
   --card-bg: var(--light-bg);
   --card-text: var(--dark-text);
   --card-shadow: rgba(0, 0, 0, 0.1);
@@ -36,6 +37,7 @@ body {
   --card-bg: var(--dark-bg);
   --card-text: var(--light-text);
   --card-shadow: rgba(255, 255, 255, 0.1);
+  --sidebar-bg-light-theme: #111314;
 }
 
 .container {
@@ -46,7 +48,7 @@ body {
 .sidebar {
   width: var(--sidebar-width);
   padding: 20px;
-  background-color: var(--dark-bg);
+  background-color: var(--sidebar-bg-light-theme);
   color: var(--light-text);
   display: flex;
   flex-direction: column;
