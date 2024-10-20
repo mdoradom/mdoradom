@@ -22,7 +22,7 @@ url:              "https://mdoradom.github.io/mdoradom"
 baseurl:          /mdoradom
 github_username:  mdoradom
 linkedin_username: mario-dorado-martinez
-version:          0.8.0
+version:          0.9.0
 license:          GPLv3
 github_url: https://github.com/mdoradom
 linkedin_url: https://www.linkedin.com/in/mario-dorado-martinez/
@@ -54,7 +54,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
-    
+
 defaults:
   - scope:
       path: ""
