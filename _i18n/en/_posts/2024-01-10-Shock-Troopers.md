@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Schock Troopers
+title: Shock Troopers
 date: 2024-01-10
-lang: ca
+lang: en
 image: /assets/img/shock_troopers.jpg
-description: "Un clon del llegendari joc d'arcade de la Neo-Geo. Creat des de zero amb SDL2 i C++"
-categories: ca posts
+description: "A clone of the legendary Neo-Geo arcade game. Created from scratch with SDL2 and C++"
+categories: en posts
 technologies:
   - C++
   - SDL2

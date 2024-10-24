@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Schock Troopers
+title: Shock Troopers
 date: 2024-01-10
 lang: es
 image: /assets/img/shock_troopers.jpg

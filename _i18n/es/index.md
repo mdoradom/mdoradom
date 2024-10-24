@@ -19,7 +19,7 @@ skills = {
 
 <div class="grid">
   <div class="card">
-    <h3><a href="{{ site.baseurl_root }}/es/posts/2024/01/10/Schock-Troopers/">Shock Troopers</a></h3>
+    <h3><a href="{{ site.baseurl_root }}/es/posts/2024/01/10/Shock-Troopers/">Shock Troopers</a></h3>
     <p>Un clon del legendario juego arcade de la Neo-Geo. Creado desde cero con SDL2 y C++</p>
   </div>
   <div class="card">
