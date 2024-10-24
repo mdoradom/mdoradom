@@ -19,15 +19,15 @@ skills = {
 
 <div class="grid">
   <div class="card">
-    <h3><a href="{{ site.baseurl_root }}/projects/2024-01-10-schock-troopers">Shock Troopers</a></h3>
+    <h3><a href="{{ site.baseurl_root }}/es/posts/2024/01/10/Schock-Troopers/">Shock Troopers</a></h3>
     <p>Recreación del juego clásico usando C++ y SDL2.</p> <!-- TODO cambiar estos textos -->
   </div>
   <div class="card">
-    <h3><a href="{{ site.baseurl_root }}/projects/2024-02-01-karoshi-dreams">Karoshi Dreams</a></h3>
+    <h3><a href="{{ site.baseurl_root }}/es/posts/2024/02/01/Karoshi-Dreams/">Karoshi Dreams</a></h3>
     <p>Juego de plataformas 2D desarrollado en Unity.</p> <!-- TODO cambiar estos textos -->
   </div>
   <div class="card">
-    <h3><a href="{{ site.baseurl_root }}/projects/2024-06-13-puddles-legacy">Puddles Legacy</a></h3>
+    <h3><a href="{{ site.baseurl_root }}/es/posts/2024/06/13/Puddles-Legacy/">Puddles Legacy</a></h3>
     <p>Sistema de inventario modular para juegos RPG.</p> <!-- TODO cambiar estos textos -->
   </div>
 </div>
