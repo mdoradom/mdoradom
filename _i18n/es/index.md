@@ -20,15 +20,15 @@ skills = {
 <div class="grid">
   <div class="card">
     <h3><a href="{{ site.baseurl_root }}/es/posts/2024/01/10/Schock-Troopers/">Shock Troopers</a></h3>
-    <p>Recreación del juego clásico usando C++ y SDL2.</p> <!-- TODO cambiar estos textos -->
+    <p>Un clon del legendario juego arcade de la Neo-Geo. Creado desde cero con SDL2 y C++</p>
   </div>
   <div class="card">
     <h3><a href="{{ site.baseurl_root }}/es/posts/2024/02/01/Karoshi-Dreams/">Karoshi Dreams</a></h3>
-    <p>Juego de plataformas 2D desarrollado en Unity.</p> <!-- TODO cambiar estos textos -->
+    <p>Un juego creado para la 7th Gran CITM Game Jam: Apuesta con el diablo mientras trabajas hasta morir.</p> 
   </div>
   <div class="card">
     <h3><a href="{{ site.baseurl_root }}/es/posts/2024/06/13/Puddles-Legacy/">Puddles Legacy</a></h3>
-    <p>Sistema de inventario modular para juegos RPG.</p> <!-- TODO cambiar estos textos -->
+    <p>Un juego hecho por 20 alumnos de Desarrollo de Videojuegos y Arte Digital y Animación.</p>
   </div>
 </div>
 

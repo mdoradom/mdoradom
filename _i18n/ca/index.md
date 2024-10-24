@@ -20,15 +20,15 @@ skills = {
 <div class="grid">
   <div class="card">
   <h3><a href="{{ site.baseurl_root }}/ca/posts/2024/01/10/Schock-Troopers/">Shock Troopers</a></h3>
-  <p>Recreació del joc clàssic utilitzant C++ i SDL2.</p> <!-- TODO cambiar estos textos -->
+  <p>Un clon del llegendari joc d'arcade de la Neo-Geo. Creat des de zero amb SDL2 i C++</p>
   </div>
   <div class="card">
   <h3><a href="{{ site.baseurl_root }}/ca/posts/2024/02/01/Karoshi-Dreams/">Karoshi Dreams</a></h3>
-  <p>Joc de plataformes 2D desenvolupat en Unity.</p> <!-- TODO cambiar estos textos -->
+  <p>Un joc creat per la 7th Gran CITM Game Jam: Aposta amb el diable mentre treballes fins a la mort.</p>
   </div>
   <div class="card">
   <h3><a href="{{ site.baseurl_root }}/ca/posts/2024/06/13/Puddles-Legacy/">Puddles Legacy</a></h3>
-  <p>Sistema d'inventari modular per a jocs RPG.</p> <!-- TODO cambiar estos textos -->
+  <p>Un joc fet per 20 estudiants dels graus de Desenvolupament de Jocs i Art Digital i Animació.</p> <!-- TODO cambiar estos textos -->
   </div>
 </div>
 
