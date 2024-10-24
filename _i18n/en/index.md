@@ -24,11 +24,11 @@ skills = {
   </div>
   <div class="card">
   <h3><a href="{{ site.baseurl_root }}/posts/2024/02/01/Karoshi-Dreams/">Karoshi Dreams</a></h3>
-  <p>2A Game made for the 7th Gran CITM Game Jam: Gamble with the devil while you work yourself to death.</p>
+  <p>A Game made for the 7th Gran CITM Game Jam: Gamble with the devil while you work yourself to death.</p>
   </div>
   <div class="card">
   <h3><a href="{{ site.baseurl_root }}/posts/2024/06/13/Puddles-Legacy/">Puddles Legacy</a></h3>
-  <p>MA game made by 20 students from the Game Development & Digital Art and Animation degrees.</p>
+  <p>A game made by 20 students from the Game Development & Digital Art and Animation degrees.</p>
   </div>
 </div>
 
@@ -61,39 +61,23 @@ skills = {
   <h3>Full Stack Developer</h3>
   <p class="card-subtitle"><strong>TAS Consultoría</strong></p>
   <p class="card-subtitle"><em>7 months - Full-time</em></p>
-  <ul>
-    <li>Web application development using modern technologies</li>
-    <li>Collaboration on IT consulting projects</li>
-  </ul>
   </div>
 
   <div class="card">
   <h3>Systems Administrator</h3>
   <p class="card-subtitle"><strong>INS Can Mas</strong></p>
   <p class="card-subtitle"><em>4 months - Internship</em></p>
-  <ul>
-    <li>Maintenance and configuration of computer systems</li>
-    <li>Technical support for users</li>
-  </ul>
   </div>
 
   <div class="card">
   <h3>Product Advisor</h3>
   <p class="card-subtitle"><strong>SALESLAND</strong></p>
   <p class="card-subtitle"><em>3 months - Part-time</em></p>
-  <ul>
-    <li>Advice and sale of technological products</li>
-    <li>Customer service and query resolution</li>
-  </ul>
   </div>
 
   <div class="card">
   <h3>Product Advisor</h3>
   <p class="card-subtitle"><strong>Beonit</strong></p>
   <p class="card-subtitle"><em>4 months - Part-time</em></p>
-  <ul>
-    <li>Sale and promotion of telecommunications services</li>
-    <li>Management of customer portfolio</li>
-  </ul>
   </div>
 </div>

@@ -1,6 +1,6 @@
 # Benvinguts al meu portfoli
 
-Hola! Sóc Mario Dorado Martínez, un estudiant de 22 anys en el tercer any de <a href="https://www.citm.upc.edu/esp/estudis/graus-videojocs/">CITM UPC</a>, especialitzat en Disseny i Desenvolupament de Videojocs. A més dels meus estudis principals, tinc experiència en el desenvolupament d'aplicacions multiplataforma i administració de sistemes.
+Hola! Sóc Mario Dorado Martínez, un estudiant de 22 anys en el tercer any de carrera al <a href="https://www.citm.upc.edu/esp/estudis/graus-videojocs/">CITM UPC</a>, especialitzat en Disseny i Desenvolupament de Videojocs. A més dels meus estudis principals, tinc experiència en el desenvolupament d'aplicacions multiplataforma i administració de sistemes.
 
 ## Habilitats Tècniques
 
@@ -61,39 +61,23 @@ skills = {
   <h3>Desenvolupador Full Stack</h3>
   <p class="card-subtitle"><strong>TAS Consultoria</strong></p>
   <p class="card-subtitle"><em>7 mesos - Jornada completa</em></p>
-  <ul>
-    <li>Desenvolupament d'aplicacions web utilitzant tecnologies modernes</li>
-    <li>Col·laboració en projectes de consultoria IT</li>
-  </ul>
   </div>
 
   <div class="card">
   <h3>Administrador de Sistemes</h3>
   <p class="card-subtitle"><strong>INS Can Mas</strong></p>
   <p class="card-subtitle"><em>4 mesos - Pràctiques</em></p>
-  <ul>
-    <li>Manteniment i configuració de sistemes informàtics</li>
-    <li>Suport tècnic a usuaris</li>
-  </ul>
   </div>
 
   <div class="card">
   <h3>Assessor de Productes</h3>
   <p class="card-subtitle"><strong>SALESLAND</strong></p>
   <p class="card-subtitle"><em>3 mesos - Mitja jornada</em></p>
-  <ul>
-    <li>Assessorament i venda de productes tecnològics</li>
-    <li>Atenció al client i resolució de consultes</li>
-  </ul>
   </div>
 
   <div class="card">
   <h3>Assessor de Productes</h3>
   <p class="card-subtitle"><strong>Beonit</strong></p>
   <p class="card-subtitle"><em>4 mesos - Mitja jornada</em></p>
-  <ul>
-    <li>Venda i promoció de serveis de telecomunicacions</li>
-    <li>Gestió de cartera de clients</li>
-  </ul>
   </div>
 </div>

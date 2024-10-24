@@ -1,6 +1,6 @@
 <h1>Bienvenido a mi portfolio</h1>
 
-¡Hola! Soy Mario Dorado Martínez, un estudiante de 22 años en el tercer año de <a href="https://www.citm.upc.edu/esp/estudis/graus-videojocs/">CITM UPC</a>, especializado en Diseño y Desarrollo de Videojuegos. Además de mis estudios principales, tengo experiencia en el desarrollo de aplicaciones multiplataforma y administración de sistemas.
+¡Hola! Soy Mario Dorado Martínez, un estudiante de 22 años en el tercer año de carrera en <a href="https://www.citm.upc.edu/esp/estudis/graus-videojocs/">CITM UPC</a>, especializado en Diseño y Desarrollo de Videojuegos. Además de mis estudios principales, tengo experiencia en el desarrollo de aplicaciones multiplataforma y administración de sistemas.
 
 ## Habilidades Técnicas
 
@@ -61,39 +61,23 @@ skills = {
     <h3>Desarrollador Full Stack</h3>
     <p class="card-subtitle"><strong>TAS Consultoría</strong></p>
     <p class="card-subtitle"><em>7 meses - Jornada completa</em></p>
-    <ul>
-      <li>Desarrollo de aplicaciones web utilizando tecnologías modernas</li>
-      <li>Colaboración en proyectos de consultoría IT</li>
-    </ul>
   </div>
 
   <div class="card">
     <h3>Administrador de Sistemas</h3>
     <p class="card-subtitle"><strong>INS Can Mas</strong></p>
     <p class="card-subtitle"><em>4 meses - Prácticas</em></p>
-    <ul>
-      <li>Mantenimiento y configuración de sistemas informáticos</li>
-      <li>Soporte técnico a usuarios</li>
-    </ul>
   </div>
 
   <div class="card">
     <h3>Asesor de Productos</h3>
     <p class="card-subtitle"><strong>SALESLAND</strong></p>
     <p class="card-subtitle"><em>3 meses - Media jornada</em></p>
-    <ul>
-      <li>Asesoramiento y venta de productos tecnológicos</li>
-      <li>Atención al cliente y resolución de consultas</li>
-    </ul>
   </div>
 
   <div class="card">
     <h3>Asesor de Productos</h3>
     <p class="card-subtitle"><strong>Beonit</strong></p>
     <p class="card-subtitle"><em>4 meses - Media jornada</em></p>
-    <ul>
-      <li>Venta y promoción de servicios de telecomunicaciones</li>
-      <li>Gestión de cartera de clientes</li>
-    </ul>
   </div>
 </div>
