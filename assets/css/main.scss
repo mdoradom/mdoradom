@@ -153,6 +153,16 @@ body {
   color: var(--accent-color);
 }
 
+.sidebar .social-icon {
+  width: 24px;
+  height: 24px;
+  transition: filter 0.1s;
+}
+
+.sidebar .social-icon:hover {
+  filter: invert(50%) sepia(99%) saturate(416%) hue-rotate(166deg) brightness(89%) contrast(92%);
+}
+
 .content {
   flex-grow: 1;
   padding: 40px;
