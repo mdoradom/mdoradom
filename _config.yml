@@ -26,7 +26,8 @@ version:          0.9.0
 license:          GPLv3
 github_url: https://github.com/mdoradom
 linkedin_url: https://www.linkedin.com/in/mario-dorado-martinez/
-twitter_url: https://mastodon.social/@mdoradom
+mastodon_url: https://mastodon.social/@mdoradom
+itchio_url: https://mdoradom.itch.io/
 
 author:
   name:           'mdoradom'
