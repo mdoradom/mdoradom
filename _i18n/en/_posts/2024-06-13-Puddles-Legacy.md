@@ -37,7 +37,7 @@ technologies:
 
 <p>You can find more about the project on various platforms:</p>
 <p><a href="https://github.com/Pistachio-Studios/Puddles-Legacy"><b>GitHub Repository</b></a>: View the source code and development progress.</p>
-<p><a href="https://pistachio-studios.github.io/Puddles-Legacy/"><b>Website</b></a>: Play the game and find additional resources.</p>
+<p><a href="https://pistachio-studios.github.io/Puddles-Legacy/"><b>Website</b></a>: Find additional resources like the artbook or the trailer.</p>
 <p><a href="https://martagnarta.itch.io/puddles-legacy"><b>Itch.io</b></a>: Enjoy the game and leave feedback.</p>
 
 <p><b>Thank you for exploring Puddle's Legacy!</b></p>

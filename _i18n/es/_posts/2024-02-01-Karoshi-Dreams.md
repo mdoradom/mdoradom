@@ -12,6 +12,8 @@ technologies:
   - Blender
 ---
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+
 <p><b>Karoshi Dreams</b> es un juego desarrollado para la <b>7ª Gran Jam de Juegos del CITM</b>, organizada por <b>CITM UPC</b> con la colaboración de <b>GAMELOFT</b> y <b>SOCIAL POINT</b> como jueces. El juego fue creado en solo <b>5 días</b>, explorando el término japonés "<b>karoshi</b>" (muerte por exceso de trabajo) dentro de una <b>atmósfera surrealista y oscura</b>. El tema principal de la jam fue <b>sueños y pesadillas</b>.</p>
 
 <div class="skills-section">

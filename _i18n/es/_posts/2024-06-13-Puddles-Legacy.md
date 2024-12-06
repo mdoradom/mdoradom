@@ -13,11 +13,11 @@ technologies:
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
-<p><b>Puddle's Legacy</b> es un juego de rol de acción en tiempo real para un jugador ambientado en un mundo de fantasía. Sabrina debe seguir los pasos de su padre desaparecido para completar un libro mágico de bestias explorando terrenos muy peligrosos. ¿Logrará Sabrina encontrar a su padre en esta aventura?</p>
+<p><b>Puddle's Legacy</b> es un juego de rol y acción en tiempo real para un jugador ambientado en un mundo de fantasía. Sabrina debe seguir los pasos de su padre desaparecido para completar un libro mágico de bestias explorando peligrosos terrenos. ¿Logrará Sabrina encontrar a su padre en esta aventura?</p>
 
-<p>El juego fue desarrollado para el <b>curso de Proyecto 2</b> como una colaboración entre el <b>grado de Diseño y Desarrollo de Videojuegos</b> y el <b>grado de Diseño, Animación y Arte Digital</b>. Nuestro equipo estaba compuesto por 10 alumnos del grado de videojuegos encargados de los aspectos técnicos, y 8 artistas del grado de arte responsables de los aspectos artísticos del juego, como concept art, sprites o animaciones.</p>
+<p>Este juego fue desarrollado para la <b>asignatura de Proyecto 2</b> como una colaboración entre el <b>grado de Diseño y Desarrollo de Videojuegos</b> y el <b>grado de Diseño, Animación y Arte Digital</b>. Nuestro equipo estaba compuesto por 10 alumnos del grado de videojuegos encargados del aspecto técnicos, y 8 artistas del grado de arte responsables del apartado artístico del juego, como concept art, sprites o animaciones.</p>
 
-<p>Trabajé junto a mi compañero, <b>Hugo Planell Moreno</b>, en el rol de <b>Líder del Equipo Técnico y Programador</b>. Fuimos responsables de organizar el equipo, integrar cambios y gestionar la implementación de características por parte de los 18 miembros del equipo. El juego se desarrolló en un período de <b>4 meses</b>.</p>
+<p>Trabajé junto a mi compañero, <b>Hugo Planell Moreno</b>, en el rol de <b>Lead del Equipo Técnico</b>. Fuimos responsables de organizar el equipo, integrar cambios y gestionar la implementación de características por parte de los 18 miembros del equipo. El juego se desarrolló en un período de <b>4 meses</b>.</p>
 
 <div class="skills-section">
   <h3>Tecnologías Utilizadas</h3>
@@ -37,7 +37,7 @@ technologies:
 
 <p>Puedes encontrar más información sobre el proyecto en varias plataformas:</p>
 <p><a href="https://github.com/Pistachio-Studios/Puddles-Legacy"><b>Repositorio de GitHub</b></a>: Ver el código fuente y el progreso del desarrollo.</p>
-<p><a href="https://pistachio-studios.github.io/Puddles-Legacy/"><b>Sitio web</b></a>: Juega el juego y encuentra recursos adicionales.</p>
+<p><a href="https://pistachio-studios.github.io/Puddles-Legacy/"><b>Sitio web</b></a>: Encuentra recursos adicionales como el artbook y el trailer.</p>
 <p><a href="https://martagnarta.itch.io/puddles-legacy"><b>Itch.io</b></a>: Disfruta del juego y deja tus comentarios.</p>
 
-<p><b>¡Gracias por explorar Legado de Puddle!</b></p>
+<p><b>¡Gracias por explorar Puddle's Legacy!</b></p>

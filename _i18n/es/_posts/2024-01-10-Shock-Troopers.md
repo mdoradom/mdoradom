@@ -13,10 +13,10 @@ technologies:
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 
-<p>This project was developed for the <b>Project 1 course</b> during my first year of college. The goal was to recreate the game <b>Shock Troopers</b> within <b>4 months</b> using our own game engine, utilizing <b>C++</b> and <b>SDL2</b>.</p>
+<p>Este proyecto fue desarrollado para la <b>asignatura de Proyecto 1</b> durante mi primer año de universidad. El objetivo era recrear el juego <b>Shock Troopers</b> en <b>4 meses</b> utilizando nuestro propio motor de juego, utilizando <b>C++</b> y <b>SDL2</b>.</p>
 
 <div class="skills-section">
-  <h3>Technologies Used</h3>
+  <h3>Tecnologías Utilizadas</h3>
   <div class="skills">
     <div class="skill">
       <i class="devicon-cplusplus-plain colored"></i>
@@ -29,14 +29,14 @@ technologies:
   </div>
 </div>
 
-<h3>Explore the project:</h3>
+<h3>Explora el proyecto:</h3>
 
-<p>You can find more about the project on various platforms:</p>
-<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers"><b>GitHub Repository</b></a>: View the source code and development progress.</p>
-<p><a href="https://very-serious-games.github.io/Project1-Shock-Troopers/"><b>Website</b></a>: Learn more about the game and its features.</p>
-<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/wiki"><b>Wiki</b></a>: Find detailed documentation and guides.</p>
-<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/releases/tag/Release"><b>GitHub Release</b></a>: Play the game and explore its releases.</p>
+<p>Puedes encontrar más sobre el proyecto en varias plataformas:</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers"><b>Repositorio en GitHub</b></a>: Ve el código fuente y el progreso del desarrollo.</p>
+<p><a href="https://very-serious-games.github.io/Project1-Shock-Troopers/"><b>Sitio Web</b></a>: Aprende más sobre el juego y sus características.</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/wiki"><b>Wiki</b></a>: Encuentra documentación detallada y guías.</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/releases/tag/Release"><b>GitHub Release</b></a>: Juega el juego y explora las diferentes versiones.</p>
 
-<p><b>Thank you for exploring Shock Troopers!</b></p>
+<p><b>¡Gracias por explorar Shock Troopers!</b></p>
 
 ---

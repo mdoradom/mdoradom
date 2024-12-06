@@ -8,17 +8,13 @@
   <div class="code-element bottom-right">;</div>
 </div>
 
-Hola! Sóc **Mario Dorado Martínez**, un desenvolupador de videojocs de **22 anys**, nascut a **Barcelona el 2002**. Els videojocs han estat una part fonamental de la meva vida des que tinc memòria. El meu primer contacte va ser jugant a *Tomb Raider I i II* de **1996** a l'ordinador del meu avi, on passava hores tancant el [majordom al congelador](https://www.youtube.com/watch?v=pW2zPX2nMcw) (sí, jo era aquella persona). Al llarg dels anys, he crescut jugant a sagues com *Minecraft*, *Zelda*, *Battlefield* i altres clàssics que han modelat la meva passió pels videojocs.
+Hola! Sóc **Mario Dorado Martínez**, un desenvolupador de videojocs de **22 anys**, nascut a **Barcelona el 2002**. Els videojocs han estat una part fonamental de la meva vida des que tinc memòria. El meu primer contacte va ser jugant a *Tomb Raider I i II* de **1996** a l'ordinador del meu avi.
 
 Sempre he tingut un ordinador a casa, cosa que em va permetre **trastejar amb la informàtica** des de petit, desenvolupant una curiositat que més tard em va portar a estudiar **Sistemes Microinformàtics i Xarxes** i, posteriorment, **Desenvolupament d'Aplicacions Multiplataforma** a l'*Escola del Treball*. Un cop vaig acabar aquests estudis, amb una sòlida base en informàtica i programació, vaig decidir unir les meves dues passions: **la informàtica i els videojocs**, i em vaig matricular al **Grau en Disseny i Desenvolupament de Videojocs** a la *UPC*.
 
-## Passió pels videojocs
-
-Per mi, els videojocs són molt més que entreteniment. Són una manera única de **narrar històries** i **crear experiències** que no es poden viure en cap altre mitjà. Des que vaig jugar a *Tomb Raider* a l'antic ordinador del meu avi, vaig saber que volia formar part d'aquest món. Els videojocs tenen un poder increïble: no només et fan **viure històries**, sinó que et converteixen en el **protagonista**, et fan **prendre decisions** i sentir que formes part d'alguna cosa més gran.
-
 ## Metes i ambicions
 
-El meu objectiu principal és **seguir desenvolupant-me** com a programador a la indústria dels videojocs, aprenent i millorant constantment. M'apassiona la **programació de baix nivell**, i gaudeixo treballant en el **desenvolupament de motors de videojocs**, on puc aplicar les meves habilitats tècniques.
+El meu objectiu principal és **seguir desenvolupant-me** com a programador a la indústria dels videojocs, aprenent i millorant constantment. M'apassiona qualsevol tema relacionat amb el codi, on puc aplicar les meves habilitats tècniques.
 
 Un dels meus interessos més recents és el llenguatge de programació *Rust*, que em crida molt l'atenció per la seva **seguretat** i **rendiment**, i crec que podria tenir aplicacions interessants en el **desenvolupament de videojocs**.
 
