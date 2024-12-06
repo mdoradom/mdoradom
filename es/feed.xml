@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://mdoradom.github.io/mdoradom/mdoradom/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mdoradom.github.io/mdoradom/mdoradom/" rel="alternate" type="text/html" hreflang="es" /><updated>2024-12-06T19:31:10+00:00</updated><id>https://mdoradom.github.io/mdoradom/mdoradom/feed.xml</id><title type="html">&amp;lt;&amp;gt;&lt;br /&gt;mdoradom</title><subtitle>// Creating games. Based in Barcelona. Pro FOSS 💙</subtitle><author><name>mdoradom</name></author><entry xml:lang="es"><title type="html">Puddle’s Legacy</title><link href="https://mdoradom.github.io/mdoradom/mdoradom/posts/2024/06/13/Puddles-Legacy/" rel="alternate" type="text/html" title="Puddle’s Legacy" /><published>2024-06-13T00:00:00+00:00</published><updated>2024-06-13T00:00:00+00:00</updated><id>https://mdoradom.github.io/mdoradom/mdoradom/posts/2024/06/13/Puddles-Legacy</id><content type="html" xml:base="https://mdoradom.github.io/mdoradom/mdoradom/posts/2024/06/13/Puddles-Legacy/"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<p><b>Puddle's Legacy</b> es un juego de rol y acción en tiempo real para un jugador ambientado en un mundo de fantasía. Sabrina debe seguir los pasos de su padre desaparecido para completar un libro mágico de bestias explorando peligrosos terrenos. ¿Logrará Sabrina encontrar a su padre en esta aventura?</p>
+
+<p>Este juego fue desarrollado para la <b>asignatura de Proyecto 2</b> como una colaboración entre el <b>grado de Diseño y Desarrollo de Videojuegos</b> y el <b>grado de Diseño, Animación y Arte Digital</b>. Nuestro equipo estaba compuesto por 10 alumnos del grado de videojuegos encargados del aspecto técnicos, y 8 artistas del grado de arte responsables del apartado artístico del juego, como concept art, sprites o animaciones.</p>
+
+<p>Trabajé junto a mi compañero, <b>Hugo Planell Moreno</b>, en el rol de <b>Lead del Equipo Técnico</b>. Fuimos responsables de organizar el equipo, integrar cambios y gestionar la implementación de características por parte de los 18 miembros del equipo. El juego se desarrolló en un período de <b>4 meses</b>.</p>
+
+<div class="skills-section">
+  <h3>Tecnologías Utilizadas</h3>
+  <div class="skills">
+    <div class="skill">
+      <i class="devicon-cplusplus-plain colored"></i>
+      <span><b>C++</b></span>
+    </div>
+    <div class="skill">
+      <i class="devicon-sdl-plain colored"></i>
+      <span><b>SDL2</b></span>
+    </div>
+  </div>
+</div>
+
+<h3>Explora el proyecto:</h3>
+
+<p>Puedes encontrar más información sobre el proyecto en varias plataformas:</p>
+<p><a href="https://github.com/Pistachio-Studios/Puddles-Legacy"><b>Repositorio de GitHub</b></a>: Ver el código fuente y el progreso del desarrollo.</p>
+<p><a href="https://pistachio-studios.github.io/Puddles-Legacy/"><b>Sitio web</b></a>: Encuentra recursos adicionales como el artbook y el trailer.</p>
+<p><a href="https://martagnarta.itch.io/puddles-legacy"><b>Itch.io</b></a>: Disfruta del juego y deja tus comentarios.</p>
+
+<p><b>¡Gracias por explorar Puddle's Legacy!</b></p>]]></content><author><name>mdoradom</name></author><category term="posts" /><summary type="html"><![CDATA[Un juego hecho por 20 alumnos de Desarrollo de Videojuegos y Arte Digital y Animación.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://mdoradom.github.io/mdoradom/mdoradom/assets/img/puddles_legacy.png" /><media:content medium="image" url="https://mdoradom.github.io/mdoradom/mdoradom/assets/img/puddles_legacy.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="es"><title type="html">Karoshi Dreams</title><link href="https://mdoradom.github.io/mdoradom/mdoradom/posts/2024/02/01/Karoshi-Dreams/" rel="alternate" type="text/html" title="Karoshi Dreams" /><published>2024-02-01T00:00:00+00:00</published><updated>2024-02-01T00:00:00+00:00</updated><id>https://mdoradom.github.io/mdoradom/mdoradom/posts/2024/02/01/Karoshi-Dreams</id><content type="html" xml:base="https://mdoradom.github.io/mdoradom/mdoradom/posts/2024/02/01/Karoshi-Dreams/"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<p><b>Karoshi Dreams</b> es un juego desarrollado para la <b>7ª Gran Jam de Juegos del CITM</b>, organizada por <b>CITM UPC</b> con la colaboración de <b>GAMELOFT</b> y <b>SOCIAL POINT</b> como jueces. El juego fue creado en solo <b>5 días</b>, explorando el término japonés "<b>karoshi</b>" (muerte por exceso de trabajo) dentro de una <b>atmósfera surrealista y oscura</b>. El tema principal de la jam fue <b>sueños y pesadillas</b>.</p>
+
+<div class="skills-section">
+  <h3>Tecnologías Utilizadas</h3>
+  <div class="skills">
+    <div class="skill">
+      <i class="devicon-unity-plain colored"></i>
+      <span><b>Unity</b></span>
+    </div>
+    <div class="skill">
+      <i class="devicon-csharp-plain colored"></i>
+      <span><b>C#</b></span>
+    </div>
+    <div class="skill">
+      <i class="devicon-blender-original colored"></i>
+      <span><b>Blender</b></span>
+    </div>
+  </div>
+</div>
+
+<h3>Explora el proyecto:</h3>
+
+<p>Puedes encontrar más sobre el proyecto en varias plataformas:</p>
+<p><a href="https://github.com/Very-Serious-Games/Karoshi-Dreams"><b>Repositorio en GitHub</b></a>: Ve el código fuente y el progreso del desarrollo.</p>
+<p><a href="https://mdoradom.itch.io/karoshidreams"><b>Itch.io</b></a>: Juega y deja tu feedback.</p>
+<p><a href="https://itch.io/jam/7a-gran-citm-game-jam/"><b>7ª Gran Jam de Juegos del CITM</b></a>: Aprende más sobre el evento donde se desarrolló el juego.</p>
+
+<p><b>¡Gracias por explorar Karoshi Dreams!</b></p>
+
+<hr />]]></content><author><name>mdoradom</name></author><category term="posts" /><summary type="html"><![CDATA[Un juego creado para la 7th Gran CITM Game Jam: Apuesta con el diablo mientras trabajas hasta morir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://mdoradom.github.io/mdoradom/mdoradom/assets/img/karoshi_dreams.png" /><media:content medium="image" url="https://mdoradom.github.io/mdoradom/mdoradom/assets/img/karoshi_dreams.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="es"><title type="html">Shock Troopers</title><link href="https://mdoradom.github.io/mdoradom/mdoradom/posts/2024/01/10/Shock-Troopers/" rel="alternate" type="text/html" title="Shock Troopers" /><published>2024-01-10T00:00:00+00:00</published><updated>2024-01-10T00:00:00+00:00</updated><id>https://mdoradom.github.io/mdoradom/mdoradom/posts/2024/01/10/Shock-Troopers</id><content type="html" xml:base="https://mdoradom.github.io/mdoradom/mdoradom/posts/2024/01/10/Shock-Troopers/"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<p>Este proyecto fue desarrollado para la <b>asignatura de Proyecto 1</b> durante mi primer año de universidad. El objetivo era recrear el juego <b>Shock Troopers</b> en <b>4 meses</b> utilizando nuestro propio motor de juego, utilizando <b>C++</b> y <b>SDL2</b>.</p>
+
+<div class="skills-section">
+  <h3>Tecnologías Utilizadas</h3>
+  <div class="skills">
+    <div class="skill">
+      <i class="devicon-cplusplus-plain colored"></i>
+      <span><b>C++</b></span>
+    </div>
+    <div class="skill">
+      <i class="devicon-sdl-plain colored"></i>
+      <span><b>SDL2</b></span>
+    </div>
+  </div>
+</div>
+
+<h3>Explora el proyecto:</h3>
+
+<p>Puedes encontrar más sobre el proyecto en varias plataformas:</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers"><b>Repositorio en GitHub</b></a>: Ve el código fuente y el progreso del desarrollo.</p>
+<p><a href="https://very-serious-games.github.io/Project1-Shock-Troopers/"><b>Sitio Web</b></a>: Aprende más sobre el juego y sus características.</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/wiki"><b>Wiki</b></a>: Encuentra documentación detallada y guías.</p>
+<p><a href="https://github.com/Very-Serious-Games/Project1-Shock-Troopers/releases/tag/Release"><b>GitHub Release</b></a>: Juega el juego y explora las diferentes versiones.</p>
+
+<p><b>¡Gracias por explorar Shock Troopers!</b></p>
+
+<hr />]]></content><author><name>mdoradom</name></author><category term="posts" /><summary type="html"><![CDATA[Un clon del legendario juego arcade de la Neo-Geo. Creado desde cero con SDL2 y C++]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://mdoradom.github.io/mdoradom/mdoradom/assets/img/shock_troopers.jpg" /><media:content medium="image" url="https://mdoradom.github.io/mdoradom/mdoradom/assets/img/shock_troopers.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

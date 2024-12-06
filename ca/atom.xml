@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>&lt;&gt;<br>mdoradom</title>
+ <link href="https://mdoradom.github.io/mdoradom/mdoradom/ca/atom.xml" rel="self"/>
+ <link href="https://mdoradom.github.io/mdoradom/mdoradom/ca/"/>
+ <updated>2024-12-06T19:31:10+00:00</updated>
+ <id>https://mdoradom.github.io/mdoradom</id>
+ <author>
+   <name>mdoradom</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Puddle's Legacy</title>
+   <link href="https://mdoradom.github.io/mdoradom/posts/2024/06/13/Puddles-Legacy/"/>
+   <updated>2024-06-13T00:00:00+00:00</updated>
+   <id>https://mdoradom.github.io/mdoradom/mdoradom/ca/posts/2024/06/13/Puddles-Legacy</id>
+   <content type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css&quot; /&gt;
+
+&lt;p&gt;&lt;b&gt;Puddle&apos;s Legacy&lt;/b&gt; és un joc de rol i acció en temps real per a un jugador ambientat en un món de fantasia. Sabrina ha de seguir els passos del seu pare desaparegut per omplir un llibre màgic de bèsties explorant terrenys molt perillosos. Aconseguirà Sabrina trobar el seu pare en aquesta aventura?&lt;/p&gt;
+
+&lt;p&gt;El joc va ser desenvolupat per a &lt;b&gt; l&apos;assignatura de Projecte 2&lt;/b&gt; com a col·laboració entre el grau de &lt;b&gt;Disseny i Desenvolupament de Videojocs&lt;/b&gt; i el grau de &lt;b&gt;Disseny, Animació i Art Digital&lt;/b&gt;. El nostre equip estava format per 10 desenvolupadors del grau de videojocs que es van encarregar dels aspectes tècnics, i 8 artistes del grau d&apos;art que es van encarregar dels aspectes artístics del joc com ara conceptes, sprites o animacions.&lt;/p&gt;
+
+&lt;p&gt;Vaig treballar al costat del meu company, &lt;b&gt;Hugo Planell Moreno&lt;/b&gt;, en el rol de &lt;b&gt;Líder d&apos;Equip Tècnic i Programador&lt;/b&gt;. Ens vam encarregar d&apos;organitzar l&apos;equip, integrar els canvis i gestionar la implementació de funcionalitats per part dels 18 membres de l&apos;equip. El joc es va desenvolupar durant un període de &lt;b&gt;4 mesos&lt;/b&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;skills-section&quot;&gt;
+  &lt;h3&gt;Tecnologies Utilitzades&lt;/h3&gt;
+  &lt;div class=&quot;skills&quot;&gt;
+    &lt;div class=&quot;skill&quot;&gt;
+      &lt;i class=&quot;devicon-cplusplus-plain colored&quot;&gt;&lt;/i&gt;
+      &lt;span&gt;&lt;b&gt;C++&lt;/b&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;skill&quot;&gt;
+      &lt;i class=&quot;devicon-sdl-plain colored&quot;&gt;&lt;/i&gt;
+      &lt;span&gt;&lt;b&gt;SDL2&lt;/b&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Explora el projecte:&lt;/h3&gt;
+
+&lt;p&gt;Pots trobar més informació sobre el projecte en diverses plataformes:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Pistachio-Studios/Puddles-Legacy&quot;&gt;&lt;b&gt;Repositori de GitHub&lt;/b&gt;&lt;/a&gt;: Visualitza el codi font i el progrés del desenvolupament.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pistachio-studios.github.io/Puddles-Legacy/&quot;&gt;&lt;b&gt;Lloc web&lt;/b&gt;&lt;/a&gt;: Troba recursos addicionals com l&apos;artbook o el trailer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://martagnarta.itch.io/puddles-legacy&quot;&gt;&lt;b&gt;Itch.io&lt;/b&gt;&lt;/a&gt;: Gaudeix del joc i deixa el teu feedback.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Gràcies per explorar Puddle&apos;s Legacy!&lt;/b&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Karoshi Dreams</title>
+   <link href="https://mdoradom.github.io/mdoradom/posts/2024/02/01/Karoshi-Dreams/"/>
+   <updated>2024-02-01T00:00:00+00:00</updated>
+   <id>https://mdoradom.github.io/mdoradom/mdoradom/ca/posts/2024/02/01/Karoshi-Dreams</id>
+   <content type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css&quot; /&gt;
+
+&lt;p&gt;&lt;b&gt;Karoshi Dreams&lt;/b&gt; és un joc desenvolupat per a la &lt;b&gt;7a Gran Jam de Jocs del CITM&lt;/b&gt;, organitzada per &lt;b&gt;CITM UPC&lt;/b&gt; amb la col·laboració de &lt;b&gt;GAMELOFT&lt;/b&gt; i &lt;b&gt;SOCIAL POINT&lt;/b&gt; com a jutges. El joc va ser creat en només &lt;b&gt;5 dies&lt;/b&gt;, explorant el terme japonès &quot;&lt;b&gt;karoshi&lt;/b&gt;&quot; (mort per excés de treball) dins d&apos;una &lt;b&gt;atmosfera surrealista i fosca&lt;/b&gt;. El tema principal de la jam va ser &lt;b&gt;somnis i malsons&lt;/b&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;skills-section&quot;&gt;
+  &lt;h3&gt;Tecnologies Utilitzades&lt;/h3&gt;
+  &lt;div class=&quot;skills&quot;&gt;
+    &lt;div class=&quot;skill&quot;&gt;
+      &lt;i class=&quot;devicon-unity-plain colored&quot;&gt;&lt;/i&gt;
+      &lt;span&gt;&lt;b&gt;Unity&lt;/b&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;skill&quot;&gt;
+      &lt;i class=&quot;devicon-csharp-plain colored&quot;&gt;&lt;/i&gt;
+      &lt;span&gt;&lt;b&gt;C#&lt;/b&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;skill&quot;&gt;
+      &lt;i class=&quot;devicon-blender-original colored&quot;&gt;&lt;/i&gt;
+      &lt;span&gt;&lt;b&gt;Blender&lt;/b&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Explora el projecte:&lt;/h3&gt;
+
+&lt;p&gt;Pots trobar més sobre el projecte en diverses plataformes:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Very-Serious-Games/Karoshi-Dreams&quot;&gt;&lt;b&gt;Repositori a GitHub&lt;/b&gt;&lt;/a&gt;: Veu el codi font i el progrés del desenvolupament.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mdoradom.itch.io/karoshidreams&quot;&gt;&lt;b&gt;Itch.io&lt;/b&gt;&lt;/a&gt;: Juga i deixa el teu feedback.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itch.io/jam/7a-gran-citm-game-jam/&quot;&gt;&lt;b&gt;7a Gran Jam de Jocs del CITM&lt;/b&gt;&lt;/a&gt;: Aprèn més sobre l&apos;esdeveniment on es va desenvolupar el joc.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Gràcies per explorar Karoshi Dreams!&lt;/b&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Shock Troopers</title>
+   <link href="https://mdoradom.github.io/mdoradom/posts/2024/01/10/Shock-Troopers/"/>
+   <updated>2024-01-10T00:00:00+00:00</updated>
+   <id>https://mdoradom.github.io/mdoradom/mdoradom/ca/posts/2024/01/10/Shock-Troopers</id>
+   <content type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css&quot; /&gt;
+
+&lt;p&gt;Aquest projecte va ser desenvolupat per &lt;b&gt;l&apos;assignatura de Projecte 1&lt;/b&gt; durant el meu primer any de universitat. L&apos;objectiu era recrear el joc &lt;b&gt;Shock Troopers&lt;/b&gt; en &lt;b&gt;4 mesos&lt;/b&gt; utilitzant el nostre propi motor de joc, utilizant &lt;b&gt;C++&lt;/b&gt; i &lt;b&gt;SDL2&lt;/b&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;skills-section&quot;&gt;
+  &lt;h3&gt;Tecnologies Utilitzades&lt;/h3&gt;
+  &lt;div class=&quot;skills&quot;&gt;
+    &lt;div class=&quot;skill&quot;&gt;
+      &lt;i class=&quot;devicon-cplusplus-plain colored&quot;&gt;&lt;/i&gt;
+      &lt;span&gt;&lt;b&gt;C++&lt;/b&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;skill&quot;&gt;
+      &lt;i class=&quot;devicon-sdl-plain colored&quot;&gt;&lt;/i&gt;
+      &lt;span&gt;&lt;b&gt;SDL2&lt;/b&gt;&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;Explora el projecte:&lt;/h3&gt;
+
+&lt;p&gt;Pots trobar més sobre el projecte en diverses plataformes:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Very-Serious-Games/Project1-Shock-Troopers&quot;&gt;&lt;b&gt;Repositori a GitHub&lt;/b&gt;&lt;/a&gt;: Veu el codi font i el progrés del desenvolupament.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://very-serious-games.github.io/Project1-Shock-Troopers/&quot;&gt;&lt;b&gt;Lloc Web&lt;/b&gt;&lt;/a&gt;: Aprèn més sobre el joc i les seves característiques.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Very-Serious-Games/Project1-Shock-Troopers/wiki&quot;&gt;&lt;b&gt;Wiki&lt;/b&gt;&lt;/a&gt;: Troba documentació detallada i guies.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Very-Serious-Games/Project1-Shock-Troopers/releases/tag/Release&quot;&gt;&lt;b&gt;Release GitHub&lt;/b&gt;&lt;/a&gt;: Juga al joc i explora les seves versions.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Gràcies per explorar Shock Troopers!&lt;/b&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+ </entry>
+ 
+
+</feed>

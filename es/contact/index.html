@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+    feather.replace();
+  });
+</script>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="/mdoradom/assets/css/main.css">
+</head>
+<body class="theme-light">
+    <div class="container">
+        <aside class="sidebar">
+  <div class="sidebar-header">
+    <h1>&lt;&gt;<br>mdoradom</h1>
+    <p>// Creating games. Based in Barcelona. Pro FOSS 💙</p>
+  </div>
+  <nav class="sidebar-nav">
+    <a href="/mdoradom/" class="nav-item">
+      <i data-feather="home"></i>
+      <span>Inicio</span>
+    </a>
+    <a href="/mdoradom/about/" class="nav-item">
+      <i data-feather="user"></i>
+      <span>Sobre mí</span>
+    </a>
+    <a href="/mdoradom/projects/" class="nav-item">
+      <i data-feather="folder"></i>
+      <span>Proyectos</span>
+    </a>
+    <a href="/mdoradom/contact/" class="nav-item">
+      <i data-feather="mail"></i>
+      <span>Contacto</span>
+    </a>
+    <a href="/mdoradom/assets/mario_dorado_martinez_cv.pdf" class="nav-item">
+      <i data-feather="download"></i>
+      <span>Descargar CV</span>
+    </a>
+  </nav>
+  <div class="sidebar-footer">
+    <div class="language-selector">
+      
+        
+          
+            <a href="/mdoradom/contact/">en</a>
+          
+        
+      
+        
+          <span class="active-lang">es</span>
+        
+      
+        
+          
+            <a href="/mdoradom/ca/contact/">ca</a>
+          
+        
+      
+    </div>
+    <button id="theme-toggle" class="theme-toggle">
+      <i data-feather="sun" class="light-icon"></i>
+      <i data-feather="moon" class="dark-icon"></i>
+      <span>Cambiar tema</span>
+    </button>
+    <p class="version">Versión actual v1.0.0</p>
+    <p class="license">&copy; 2024 Mario Dorado Martínez. Hosteado por <a href='https://pages.github.com/'>GitHub Pages</a>. Código fuente de la web en <a href='https://github.com/mdoradom/mdoradom'>GitHub</a>. Bajo GPLv3</p>
+    <div class="social-links">
+      <a href="https://github.com/mdoradom" target="_blank" rel="noopener noreferrer">
+      <img src="/mdoradom/assets/icons/github-white.svg" alt="GitHub" class="social-icon">
+      </a>
+      <a href="https://www.linkedin.com/in/mario-dorado-martinez/" target="_blank" rel="noopener noreferrer">
+      <img src="/mdoradom/assets/icons/linkedin-white.svg" alt="LinkedIn" class="social-icon">
+      </a>
+      <a href="https://mdoradom.itch.io/" target="_blank" rel="noopener noreferrer">
+      <img src="/mdoradom/assets/icons/itchdotio-white.svg" alt="Twitter" class="social-icon">
+      </a>
+      <a href="https://mastodon.social/@mdoradom" target="_blank" rel="noopener noreferrer">
+      <img src="/mdoradom/assets/icons/mastodon-white.svg" alt="Mastodon" class="social-icon">
+      </a>
+    </div>
+  </div>
+</aside>
+        <main class="content">
+            <div class="page">
+  <div class="contact-section">
+  <h1>Contacto</h1>
+  
+  <p class="contact-intro">No dudes en contactarme a través de cualquiera de estas plataformas:</p>
+
+  <div class="email-container" id="emailContainer">
+    <span class="email" id="emailText">mariodoradomartinez@gmail.com</span>
+    <span class="copy-feedback" id="copyFeedback"></span>
+  </div>
+
+  <div class="social-icons">
+    <a href="https://www.linkedin.com/in/mario-dorado-martinez" target="_blank" rel="noopener noreferrer">
+      <img src="/mdoradom/es/assets/icons/linkedin-color.svg" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/mdoradom" target="_blank" rel="noopener noreferrer">
+      <img src="/mdoradom/es/assets/icons/github-color.svg" alt="GitHub" />
+    </a>
+    <a href="https://mdoradom.itch.io" target="_blank" rel="noopener noreferrer">
+      <img src="/mdoradom/es/assets/icons/itchdotio-color.svg" alt="Itch.io" />
+    </a>
+  </div>
+
+  <p class="contact-outro">¡Espero poder conectar contigo pronto!</p>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const emailContainer = document.getElementById('emailContainer');
+    const emailText = document.getElementById('emailText');
+    const copyFeedback = document.getElementById('copyFeedback');
+
+    emailContainer.addEventListener('click', function() {
+      const email = emailText.textContent;
+      navigator.clipboard.writeText(email).then(function() {
+        copyFeedback.textContent = 'Copiado!';
+        setTimeout(function() {
+          copyFeedback.textContent = '';
+        }, 2000);
+      }).catch(function(err) {
+        console.error('Error al copiar el email: ', err);
+      });
+    });
+  });
+</script>
+
+
+</div>
+        </main>
+    </div>
+    <script src="/mdoradom/assets/js/theme-toggle.js"></script>
+</body>
+</html>

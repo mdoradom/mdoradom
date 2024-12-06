@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="ca">
+<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+    feather.replace();
+  });
+</script>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="/mdoradom/assets/css/main.css">
+</head>
+<body class="theme-light">
+    <div class="container">
+        <aside class="sidebar">
+  <div class="sidebar-header">
+    <h1>&lt;&gt;<br>mdoradom</h1>
+    <p>// Creating games. Based in Barcelona. Pro FOSS 💙</p>
+  </div>
+  <nav class="sidebar-nav">
+    <a href="/mdoradom/" class="nav-item">
+      <i data-feather="home"></i>
+      <span>Inici</span>
+    </a>
+    <a href="/mdoradom/about/" class="nav-item">
+      <i data-feather="user"></i>
+      <span>Sobre mi</span>
+    </a>
+    <a href="/mdoradom/projects/" class="nav-item">
+      <i data-feather="folder"></i>
+      <span>Projectes</span>
+    </a>
+    <a href="/mdoradom/contact/" class="nav-item">
+      <i data-feather="mail"></i>
+      <span>Contacte</span>
+    </a>
+    <a href="/mdoradom/assets/mario_dorado_martinez_cv.pdf" class="nav-item">
+      <i data-feather="download"></i>
+      <span>Descarrega el CV</span>
+    </a>
+  </nav>
+  <div class="sidebar-footer">
+    <div class="language-selector">
+      
+        
+          
+            <a href="/mdoradom/">en</a>
+          
+        
+      
+        
+          
+            <a href="/mdoradom/es/">es</a>
+          
+        
+      
+        
+          <span class="active-lang">ca</span>
+        
+      
+    </div>
+    <button id="theme-toggle" class="theme-toggle">
+      <i data-feather="sun" class="light-icon"></i>
+      <i data-feather="moon" class="dark-icon"></i>
+      <span>Canviar tema</span>
+    </button>
+    <p class="version">Versió actual v1.0.0</p>
+    <p class="license">&copy; 2024 Mario Dorado Martínez. Allotjat per <a href='https://pages.github.com/'>GitHub Pages</a>. Codi font del lloc web a <a href='https://github.com/mdoradom/mdoradom'>GitHub</a>. Sota GPLv3</p>
+    <div class="social-links">
+      <a href="https://github.com/mdoradom" target="_blank" rel="noopener noreferrer">
+      <img src="/mdoradom/assets/icons/github-white.svg" alt="GitHub" class="social-icon">
+      </a>
+      <a href="https://www.linkedin.com/in/mario-dorado-martinez/" target="_blank" rel="noopener noreferrer">
+      <img src="/mdoradom/assets/icons/linkedin-white.svg" alt="LinkedIn" class="social-icon">
+      </a>
+      <a href="https://mdoradom.itch.io/" target="_blank" rel="noopener noreferrer">
+      <img src="/mdoradom/assets/icons/itchdotio-white.svg" alt="Twitter" class="social-icon">
+      </a>
+      <a href="https://mastodon.social/@mdoradom" target="_blank" rel="noopener noreferrer">
+      <img src="/mdoradom/assets/icons/mastodon-white.svg" alt="Mastodon" class="social-icon">
+      </a>
+    </div>
+  </div>
+</aside>
+        <main class="content">
+            <h1 id="benvinguts-al-meu-portfoli">Benvinguts al meu portfoli</h1>
+
+<p>Hola! Sóc Mario Dorado Martínez, un estudiant de 22 anys en el tercer any de carrera al <a href="https://www.citm.upc.edu/esp/estudis/graus-videojocs/">CITM UPC</a>, especialitzat en Disseny i Desenvolupament de Videojocs. A més dels meus estudis principals, tinc experiència en el desenvolupament d’aplicacions multiplataforma i administració de sistemes.</p>
+
+<h2 id="habilitats-tècniques">Habilitats Tècniques</h2>
+
+<figure class="highlight"><pre><code class="language-lua" data-lang="lua"><span class="n">skills</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="n">game_dev_languages</span> <span class="o">=</span> <span class="p">{</span><span class="s2">"C++"</span><span class="p">,</span> <span class="s2">"C"</span><span class="p">,</span> <span class="s2">"C#"</span><span class="p">},</span>
+  <span class="n">languages</span> <span class="o">=</span> <span class="p">{</span><span class="s2">"Java"</span><span class="p">,</span> <span class="s2">"Bash"</span><span class="p">,</span> <span class="s2">"JavaScript"</span><span class="p">,</span> <span class="s2">"Python"</span><span class="p">},</span>
+  <span class="n">game_engines</span> <span class="o">=</span> <span class="p">{</span><span class="s2">"Unity"</span><span class="p">,</span> <span class="s2">"Godot"</span><span class="p">},</span>
+  <span class="n">vcs</span> <span class="o">=</span> <span class="p">{</span><span class="s2">"Git"</span><span class="p">,</span> <span class="s2">"GitHub"</span><span class="p">,</span> <span class="s2">"GitLab"</span><span class="p">},</span>
+  <span class="n">databases</span> <span class="o">=</span> <span class="p">{</span><span class="s2">"PostgreSQL"</span><span class="p">,</span> <span class="s2">"MySQL"</span><span class="p">,</span> <span class="s2">"MongoDB"</span><span class="p">},</span>
+  <span class="n">other</span> <span class="o">=</span> <span class="p">{</span><span class="s2">"Linux"</span><span class="p">,</span> <span class="s2">"Docker"</span><span class="p">,</span> <span class="s2">"Markdown"</span><span class="p">}</span>
+<span class="p">}</span></code></pre></figure>
+
+<h2 id="projectes-notables">Projectes Notables</h2>
+
+<div class="grid">
+  <div class="card">
+  <h3><a href="/mdoradom/ca/posts/2024/01/10/Shock-Troopers/">Shock Troopers</a></h3>
+  <p>Un clon del llegendari joc d'arcade de la Neo-Geo. Creat des de zero amb SDL2 i C++</p>
+  </div>
+  <div class="card">
+  <h3><a href="/mdoradom/ca/posts/2024/02/01/Karoshi-Dreams/">Karoshi Dreams</a></h3>
+  <p>Un joc creat per la 7th Gran CITM Game Jam: Aposta amb el diable mentre treballes fins a la mort.</p>
+  </div>
+  <div class="card">
+  <h3><a href="/mdoradom/ca/posts/2024/06/13/Puddles-Legacy/">Puddles Legacy</a></h3>
+  <p>Un joc fet per 20 estudiants dels graus de Desenvolupament de Jocs i Art Digital i Animació.</p> <!-- TODO cambiar estos textos -->
+  </div>
+</div>
+
+<h2 id="educació">Educació</h2>
+
+<div class="grid">
+  <div class="card">
+  <h3>Grau en Disseny i Desenvolupament de Videojocs</h3>
+  <p class="card-subtitle"><strong>Centre de la Imatge i la Tecnologia Multimèdia (CITM UPC)</strong></p>
+  <p class="card-subtitle"><em>2022 - 2026</em></p>
+  </div>
+  
+  <div class="card">
+  <h3>Tècnic Superior en Programació d'Aplicacions Multiplataforma</h3>
+  <p class="card-subtitle"><strong>Institut Escola del Treball</strong></p>
+  <p class="card-subtitle"><em>2020 - 2022</em></p>
+  </div>
+  
+  <div class="card">
+  <h3>Tècnic en Administració de Xarxes i Sistemes</h3>
+  <p class="card-subtitle"><strong>Institut Escola del Treball</strong></p>
+  <p class="card-subtitle"><em>2018 - 2020</em></p>
+  </div>
+</div>
+
+<h2 id="experiència">Experiència</h2>
+
+<div class="grid">
+  <div class="card">
+  <h3>Desenvolupador Full Stack</h3>
+  <p class="card-subtitle"><strong>TAS Consultoria</strong></p>
+  <p class="card-subtitle"><em>7 mesos - Jornada completa</em></p>
+  </div>
+
+  <div class="card">
+  <h3>Administrador de Sistemes</h3>
+  <p class="card-subtitle"><strong>INS Can Mas</strong></p>
+  <p class="card-subtitle"><em>4 mesos - Pràctiques</em></p>
+  </div>
+
+  <div class="card">
+  <h3>Assessor de Productes</h3>
+  <p class="card-subtitle"><strong>SALESLAND</strong></p>
+  <p class="card-subtitle"><em>3 mesos - Mitja jornada</em></p>
+  </div>
+
+  <div class="card">
+  <h3>Assessor de Productes</h3>
+  <p class="card-subtitle"><strong>Beonit</strong></p>
+  <p class="card-subtitle"><em>4 mesos - Mitja jornada</em></p>
+  </div>
+</div>
+
+        </main>
+    </div>
+    <script src="/mdoradom/assets/js/theme-toggle.js"></script>
+</body>
+</html>
