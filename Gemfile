@@ -7,10 +7,6 @@ gem "jekyll-sitemap", "~> 1.4"
 gem "jemoji", "~> 0.12"
 gem "jekyll-multiple-languages-plugin", "~> 1.7"
 
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-end
-
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
