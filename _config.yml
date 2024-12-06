@@ -1,44 +1,64 @@
-name: Jekyll site CI
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-  workflow_dispatch:
+# Markdown Processors
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+# Permalinks
+permalink:        pretty
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+# Setup
+title: >-
+  &lt;&gt;<br>mdoradom
+email: tu@email.com
+tagline:          'Portfolio'
+description: >-
+  // Creating games. Based in Barcelona. Pro FOSS 💙
+url:              "https://mdoradom.github.io/mdoradom"
+baseurl:          /mdoradom
+github_username:  mdoradom
+linkedin_username: mario-dorado-martinez
+version:          1.0.0
+license:          GPLv3
+github_url: https://github.com/mdoradom
+linkedin_url: https://www.linkedin.com/in/mario-dorado-martinez/
+mastodon_url: https://mastodon.social/@mdoradom
+itchio_url: https://mdoradom.itch.io/
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+author:
+  name:           'mdoradom'
+  url:            https://github.com/mdoradom/
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.1'
-          bundler-cache: true
+download:
+  cv:             /assets/mario_dorado_martinez_cv.pdf
 
-      - name: Install dependencies
-        run: bundle install
+github:
+  repo:           https://github.com/mdoradom/mdoradom
 
-      - name: Build Jekyll site
-        run: bundle exec jekyll build
+plugins:
+  - gemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-multiple-languages-plugin
+  - jekyll-feed
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+# Multilanguage settings
+languages: ["en", "es", "ca"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
