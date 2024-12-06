@@ -3,7 +3,7 @@
 <div class="avatar-container">
   <div class="code-element top-left">&lt;</div>
   <div class="code-element top-right">&gt;</div>
-  <img src="../../assets/yo.jpg" alt="La meva foto de perfil" class="avatar-image">
+  <img src="/mdoradom/assets/yo.jpg" alt="La meva foto de perfil" class="avatar-image">
   <div class="code-element bottom-left">//</div>
   <div class="code-element bottom-right">;</div>
 </div>
