@@ -18,8 +18,8 @@ email: tu@email.com
 tagline:          'Portfolio'
 description: >-
   // Creating games. Based in Barcelona. Pro FOSS 💙
-url:              "https://mdoradom.com/"
-baseurl:          /
+url:              "https://mdoradom.github.io/mdoradom"
+baseurl:          /mdoradom
 github_username:  mdoradom
 linkedin_username: mario-dorado-martinez
 version:          1.0.0
@@ -31,7 +31,7 @@ itchio_url: https://mdoradom.itch.io/
 
 author:
   name:           'mdoradom'
-  url:            https://mdoradom.com/
+  url:            https://github.com/mdoradom/
 
 download:
   cv:             /assets/mario_dorado_martinez_cv.pdf
