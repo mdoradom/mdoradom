@@ -61,7 +61,7 @@ I'm a Game Developer based in Barcelona.
 
 ## Connect with Me
 - **Mastodon**: [@mdoradom](https://mastodon.social/@mdoradom)
-- **LinkedIn**: [mdoradom](https://www.linkedin.com/in/mdoradom)
+- **LinkedIn**: [mdoradom](https://www.linkedin.com/in/mario-dorado-martinez/)
 - **itch.io**: [mdoradom](https://mdoradom.itch.io)
 - **Portfolio**: [mdoradom.com](https://mdoradom.com)
 - **Blog**: [secondbrain.mdoradom.com](https://secondbrain.mdoradom.com)
