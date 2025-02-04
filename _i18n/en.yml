@@ -1,9 +1,0 @@
-global:
-  home: "Home"
-  about: "About me"
-  projects: "Projects"
-  contact: "Contact"
-  download_cv: "Download CV"
-  toggle_theme: "Toggle theme"
-  version: "Currently v"
-  license: "Hosted by <a href='https://pages.github.com/'>GitHub Pages</a>. Website <a href='https://github.com/mdoradom/mdoradom'>source code on GitHub</a>. Under"
