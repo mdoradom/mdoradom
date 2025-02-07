@@ -1,0 +1,41 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Sobre mí"
+pageRef = "about"
+identifier = "mHI78prsV5"
+weight = 1
+
+[[main]]
+name = "Contacto"
+pageRef = "contact"
+identifier = "OSbbNsaALG"
+weight = 2
+
+[[main]]
+name = "CV"
+url = "google.com"
+identifier = "Znj3qscYke"
+weight = 4
+
+[[main]]
+name = "Proyectos"
+pageRef = "projects"
+identifier = "X7lFpi4Oxd"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "https://secondbrain.mdoradom.com/"
+identifier = "Wo5XJFFX8V"
+weight = 5
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "tags"
+pageRef = "tags"
+identifier = "lcP6Gri90R"
+weight = 9999

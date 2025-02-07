@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "es"
+languageName = "Español"
+weight = 1
+title = "mdoradom"
+
+[params]
+displayName = "ES"
+isoCode = "es"
+rtl = false
+dateFormat = "2 January 2006"
+description = "// Creating games. Based in Barcelona. Pro FOSS 💙"
+
+[params.author]
+name = "Mario"
+bio = "Test author description"
+headline = "// Creating games. Based in Barcelona. Pro FOSS 💙"
+links = [
+  { github = "https://github.com/mdoradom" },
+  { linkedin = "https://linkedin.com/in/mario-dorado-martinez" },
+  { mastodon = "https://mastodon.social/@mdoradom" },
+  { itch-io = "https://mdoradom.itch.io" },
+  { email = "mailto:mariodoradomartinez@gmail.com" }
+]
