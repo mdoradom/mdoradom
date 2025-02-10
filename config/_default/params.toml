@@ -1,4 +1,4 @@
-colorScheme = "slate"
+colorScheme = "navy-minimal"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
@@ -9,6 +9,7 @@ disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 highlightCurrentMenuArea = true
+defaultBackgroundImage = "background.jpg"
 
 [header]
 layout = "fixed-fill-blur"
@@ -21,7 +22,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "background"
+layout = "profile"
 showRecent = true
 showRecentItems = "6"
 showMoreLink = true
@@ -56,6 +57,7 @@ showWordCount = true
 showZenMode = true
 relatedContentLimit = "3"
 showRelatedContent = false
+heroStyle = "background"
 
 [list]
 showHero = true
@@ -72,7 +74,7 @@ groupByYear = false
 cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
-heroStyle = "thumbAndBackground"
+heroStyle = "background"
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
@@ -80,11 +82,12 @@ excludedKinds = [ "taxonomy", "term" ]
 [taxonomy]
 showTermCount = true
 showHero = false
-showBreadcrumbs = false
+showBreadcrumbs = true
 showViews = false
 showLikes = false
 showTableOfContents = false
 cardView = true
+heroStyle = "background"
 
 [term]
 showHero = false
@@ -93,8 +96,9 @@ showViews = false
 showLikes = false
 showTableOfContents = true
 groupByYear = false
-cardView = false
+cardView = true
 cardViewScreenWidth = false
+heroStyle = "background"
 
 [firebase]
 

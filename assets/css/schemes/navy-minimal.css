@@ -1,0 +1,38 @@
+/* Navy Minimal Scheme */
+:root {
+    --color-neutral: 237, 242, 247;
+    /* Dark Blue (Backgrounds & UI) */
+    --color-neutral-50: 245, 247, 250;
+    --color-neutral-100: 237, 242, 247;
+    --color-neutral-200: 220, 230, 240;
+    --color-neutral-300: 190, 204, 219;
+    --color-neutral-400: 140, 160, 180;
+    --color-neutral-500: 100, 120, 140;
+    --color-neutral-600: 60, 80, 100;
+    --color-neutral-700: 40, 50, 70;
+    --color-neutral-800: 30, 40, 55;
+    --color-neutral-900: 25, 31, 44;
+    /* Primary Blue */
+    --color-primary-50: 225, 237, 255;
+    --color-primary-100: 200, 221, 255;
+    --color-primary-200: 170, 200, 255;
+    --color-primary-300: 130, 170, 250;
+    --color-primary-400: 90, 150, 250;
+    --color-primary-500: 59, 129, 246;
+    --color-primary-600: 47, 103, 197;
+    --color-primary-700: 38, 84, 158;
+    --color-primary-800: 28, 64, 122;
+    --color-primary-900: 20, 48, 92;
+    /* Secondary (Soft Contrast - Lighter Blue) */
+    --color-secondary-50: 240, 245, 255;
+    --color-secondary-100: 220, 235, 255;
+    --color-secondary-200: 190, 220, 255;
+    --color-secondary-300: 150, 200, 255;
+    --color-secondary-400: 110, 180, 255;
+    --color-secondary-500: 80, 160, 250;
+    --color-secondary-600: 60, 130, 210;
+    --color-secondary-700: 45, 100, 170;
+    --color-secondary-800: 35, 80, 130;
+    --color-secondary-900: 25, 60, 100;
+  }
+  
