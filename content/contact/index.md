@@ -10,12 +10,9 @@ cascade:
 
 Feel free to contact me through any of these platforms:
 
-mariodoradomartinez@gmail.com
-
-https://www.linkedin.com/in/mario-dorado-martinez
-
-https://github.com/mdoradom
-
-https://mdoradom.itch.io
+- [Email](mailto:mariodoradomartinez@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mario-dorado-martinez)
+- [GitHub](https://github.com/mdoradom)
+- [Itch.io](https://mdoradom.itch.io)
 
 I hope to connect with you soon!
