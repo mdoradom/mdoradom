@@ -2,8 +2,9 @@
 title: "Coffee Engine"
 date: 2025-02-04
 draft: false
-description: "Un motor de joc fet des de zero escrit en C++ i OpenGL"
+summary: "Un motor de joc fet des de zero escrit en C++ i OpenGL"
 tags: ["C++", "OpenGL", "Game Engine"]
+weight:
 ---
 
 **Coffee Engine** és un petit motor de joc fet des de zero per **Hugo Planell Moreno** i **jo mateix** com a projecte personal i acadèmic, amb l'objectiu d'aprendre més en profunditat sobre com funcionen els motors de joc.

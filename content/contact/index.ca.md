@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Com contactar amb mi"
+summary: "Com contactar amb mi"
 
 cascade:
   showDate: false

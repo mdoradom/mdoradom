@@ -2,8 +2,9 @@
 title: "Mindfall"
 date: 2025-01-30
 draft: false
-description: "Un juego creado para la 8ª Gran CITM Game Jam: ¿Luchar por un nuevo comienzo?"
+summary: "Un juego creado para la 8ª Gran CITM Game Jam: ¿Luchar por un nuevo comienzo?"
 tags: ["Godot", "GDScript", "Game Jam"]
+weight:
 ---
 
 **Mindfall - The Last Threshold** es un shooter psicológico en primera persona desarrollado para la **8ª Gran CITM Game Jam**, organizada por **CITM UPC** en colaboración con **GAMELOFT**, **SOCIAL POINT**, **Larian Studios**, **Donestech** y el **Ayuntamiento de Terrassa** como jueces. El juego fue creado en solo **7 días**, llevando al límite nuestra capacidad para crear una jugabilidad FPS rápida con una buena narrativa atmosférica.

@@ -2,8 +2,9 @@
 title: "Coffee Engine"
 date: 2025-02-04
 draft: false
-description: "A game engine made from scratch written in C++ & OpenGL"
+summary: "A game engine made from scratch written in C++ & OpenGL"
 tags: ["C++", "OpenGL", "Game Engine"]
+weight:
 ---
 
 **Coffee Engine** is a small game engine made from scratch by **Hugo Planell Moreno** and **myself** as a personal and academic project, with the purpose of learning more in-depth about how game engines work.

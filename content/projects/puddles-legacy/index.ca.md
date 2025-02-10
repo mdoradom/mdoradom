@@ -2,8 +2,9 @@
 title: "Puddle's Legacy"
 date: 2024-06-13
 draft: false
-description: "Un joc fet per 20 estudiants dels graus de Desenvolupament de Jocs i Art Digital i Animació."
+summary: "Un joc fet per 20 estudiants dels graus de Desenvolupament de Jocs i Art Digital i Animació."
 tags: ["C++", "SDL2"]
+weight:
 ---
 
 **Puddle's Legacy** és un joc de rol i acció en temps real per a un jugador ambientat en un món de fantasia. Sabrina ha de seguir els passos del seu pare desaparegut per omplir un llibre màgic de bèsties explorant terrenys molt perillosos. Aconseguirà Sabrina trobar el seu pare en aquesta aventura?</p>

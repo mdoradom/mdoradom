@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Ways to contact me"
+summary: "Ways to contact me"
 
 cascade:
   showDate: false

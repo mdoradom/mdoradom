@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Una breve descripción sobre mí."
+summary: "Una breve descripción sobre mí."
 
 cascade:
   showDate: false

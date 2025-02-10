@@ -2,8 +2,9 @@
 title: "Puddle's Legacy"
 date: 2024-06-13
 draft: false
-description: "Un juego hecho por 20 alumnos de Desarrollo de Videojuegos y Arte Digital y Animación."
+summary: "Un juego hecho por 20 alumnos de Desarrollo de Videojuegos y Arte Digital y Animación."
 tags: ["C++", "SDL2"]
+weight:
 ---
 
 **Puddle's Legacy** es un juego de rol y acción en tiempo real para un jugador ambientado en un mundo de fantasía. Sabrina debe seguir los pasos de su padre desaparecido para completar un libro mágico de bestias explorando peligrosos terrenos. ¿Logrará Sabrina encontrar a su padre en esta aventura?

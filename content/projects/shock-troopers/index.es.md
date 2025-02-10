@@ -2,8 +2,9 @@
 title: "Shock Troppers"
 date: 2024-01-10
 draft: false
-description: "Un clon del legendario juego arcade de la Neo-Geo. Creado desde cero con SDL2 y C++"
+summary: "Un clon del legendario juego arcade de la Neo-Geo. Creado desde cero con SDL2 y C++"
 tags: ["C++", "SDL2"]
+weight:
 ---
 
 Este proyecto fue desarrollado para la **asignatura de Proyecto 1** durante mi primer año de universidad. El objetivo era recrear el juego **Shock Troopers** en **4 meses** utilizando nuestro propio motor de juego, utilizando **C++** y **SDL2**.

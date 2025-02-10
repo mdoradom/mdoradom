@@ -2,8 +2,9 @@
 title: "Second Brain"
 date: 2024-11-06
 draft: false
-description: "Un blog personal documentando mi viaje a través del desarrollo de videojuegos y la programación."
+summary: "Un blog personal documentando mi viaje a través del desarrollo de videojuegos y la programación."
 tags: ["Blog", "Obsidian", "SSG"]
+weight:
 ---
 
 **Second Brain** es mi blog personal, inspirado en la metodología **"Second Brain"** (Segundo Cerebro)—un sistema de gestión del conocimiento que imita cómo el cerebro humano conecta ideas. En lugar de almacenar información aislada, este enfoque interconecta conceptos como neuronas formando una red de conocimiento, facilitando la revisión, refinamiento y expansión de aprendizajes anteriores.
