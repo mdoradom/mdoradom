@@ -15,7 +15,7 @@ weight = 2
 
 [[main]]
 name = "CV"
-url = "google.com"
+url = "/assets/cv.pdf"
 identifier = "Znj3qscYke"
 weight = 4
 
