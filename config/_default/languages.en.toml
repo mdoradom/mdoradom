@@ -15,10 +15,11 @@ description = "// Creating games. Based in Barcelona. Pro FOSS 💙"
 name = "Mario"
 bio = "Test author description"
 headline = "// Creating games. Based in Barcelona. Pro FOSS 💙"
+image = "profile.png"
 links = [
-  { github = "https://github.com/mdoradom" },
-  { linkedin = "https://linkedin.com/in/mario-dorado-martinez" },
-  { mastodon = "https://mastodon.social/@mdoradom" },
-  { itch-io = "https://mdoradom.itch.io" },
-  { email = "mailto:mariodoradomartinez@gmail.com" }
+	{ github = "https://github.com/mdoradom" },
+	{ linkedin = "https://linkedin.com/in/mario-dorado-martinez" },
+	{ mastodon = "https://mastodon.social/@mdoradom" },
+	{ itch-io = "https://mdoradom.itch.io" },
+	{ email = "mailto:mariodoradomartinez@gmail.com" }
 ]
