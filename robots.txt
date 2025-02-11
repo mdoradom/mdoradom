@@ -1,1 +1,3 @@
-Sitemap: https://mdoradom.github.io/mdoradom/mdoradom/sitemap.xml
+User-agent: *
+Allow: /
+Sitemap: https://mdoradom.com/sitemap.xml
