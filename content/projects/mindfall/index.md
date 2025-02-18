@@ -18,6 +18,12 @@ The game follows the journey of a protagonist who, struggling with depression, a
 - **Enemy encounters** force players to adapt and fight their way through manifestations of the protagonist’s fears.
 - **A deep, oppressive atmosphere** that shifts as players progress, creating a sense of unease and urgency.
 
+![](img_1.png)
+
+![](img_2.png)
+
+![](img_3.png)
+
 ### Technologies Used
 
 - **Godot**

@@ -18,6 +18,12 @@ El juego sigue el viaje de un protagonista que, luchando contra la depresión, i
 - **Encuentros con enemigos** que obligan a los jugadores a adaptarse y luchar contra manifestaciones de los miedos del protagonista.
 - **Una atmósfera profunda y opresiva** que cambia conforme los jugadores avanzan, creando una sensación de inquietud y urgencia.
 
+![](img_1.png)
+
+![](img_2.png)
+
+![](img_3.png)
+
 ### Tecnologías Utilizadas
 
 - **Godot**
