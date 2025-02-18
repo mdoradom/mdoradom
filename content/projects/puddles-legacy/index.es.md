@@ -13,11 +13,16 @@ Este juego fue desarrollado para la **asignatura de Proyecto 2** como una colabo
 
 Trabajé junto a mi compañero, **Hugo Planell Moreno**, en el rol de **Lead del Equipo Técnico**. Fuimos responsables de organizar el equipo, integrar cambios y gestionar la implementación de características por parte de los 18 miembros del equipo. El juego se desarrolló en un período de **4 meses**.
 
+![](img_1.png)
+
+![](img_2.png)
+
+![](img_3.png)
+
 ### Tecnologías Utilizadas
 
 - C++
 - SDL2
-
 
 ### Explora el proyecto:
 

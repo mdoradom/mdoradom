@@ -18,6 +18,12 @@ El joc segueix el viatge d'un protagonista que, lluitant contra la depressió, i
 - **Trobades amb enemics** que forcen els jugadors a adaptar-se i lluitar contra manifestacions de les pors del protagonista.
 - **Una atmosfera profunda i opressiva** que canvia a mesura que els jugadors progressen, creant una sensació d'inquietud i urgència.
 
+![](img_1.png)
+
+![](img_2.png)
+
+![](img_3.png)
+
 ### Tecnologies Utilitzades
 
 - **Godot**

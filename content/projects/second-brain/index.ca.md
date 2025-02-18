@@ -13,6 +13,8 @@ Aquest blog serveix com a repositori estructurat on documento i connecto idees d
 
 El lloc web està construït utilitzant **Obsidian**, la meva eina principal per prendre notes, i **Quartz**, un generador de llocs web estàtics (SSG) dissenyat per publicar notes interconnectades basades en markdown. Quartz va ser creat per [Jacky Zhao](https://quartz.jzhao.xyz/), i la seva flexibilitat em permet estructurar les meves notes d'una manera que segueix de prop la metodologia Second Brain.
 
+![](img_1.png)
+
 ### Tecnologies Utilitzades
 
 - Obsidian

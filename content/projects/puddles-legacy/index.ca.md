@@ -13,11 +13,16 @@ El joc va ser desenvolupat per a **l'assignatura de Projecte 2** com a col·labo
 
 Vaig treballar al costat del meu company, **Hugo Planell Moreno**, en el rol de **Líder d'Equip Tècnic i Programador**. Ens vam encarregar d'organitzar l'equip, integrar els canvis i gestionar la implementació de funcionalitats per part dels 18 membres de l'equip. El joc es va desenvolupar durant un període de **4 mesos**.
 
+![](img_1.png)
+
+![](img_2.png)
+
+![](img_3.png)
+
 ### Tecnologies Utilitzades
 
 - C++
 - SDL2
-
 
 ### Explora el projecte:
 

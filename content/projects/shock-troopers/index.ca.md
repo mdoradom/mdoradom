@@ -9,6 +9,12 @@ weight:
 
 Aquest projecte va ser desenvolupat per **l'assignatura de Projecte 1** durant el meu primer any de universitat. L'objectiu era recrear el joc **Shock Troopers** en **4 mesos** utilitzant el nostre propi motor de joc, utilizant **C++** i **SDL2**.
 
+![](img_1.png)
+
+![](img_2.png)
+
+![](img_3.png)
+
 ### Tecnologies Utilitzades
 
 - **C++**
