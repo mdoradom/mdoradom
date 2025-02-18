@@ -13,11 +13,16 @@ The game was developed for the **Project 2 course** as a collaboration between t
 
 I worked alongside my teammate, **Hugo Planell Moreno**, in the role of **Tech Team Leader and Programmer**. We were responsible for organizing the team, integrating changes, and managing the implementation of features by all 18 team members. The game was developed over a period of **4 months**.
 
+![](img_1.png)
+
+![](img_2.png)
+
+![](img_3.png)
+
 ### Technologies Used
 
 - C++
 - SDL2
-
 
 ### Explore the project:
 
