@@ -13,6 +13,8 @@ Este blog sirve como un repositorio estructurado donde documento y conecto ideas
 
 El sitio está construido usando **Obsidian**, mi herramienta principal para tomar notas, y **Quartz**, un generador de sitios estáticos (SSG) diseñado para publicar notas interconectadas basadas en markdown. Quartz fue creado por [Jacky Zhao](https://quartz.jzhao.xyz/), y su flexibilidad me permite estructurar mis notas de una manera que sigue de cerca la metodología Second Brain.
 
+![](img_1.png)
+
 ### Tecnologías Utilizadas
 
 - Obsidian
