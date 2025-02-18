@@ -9,6 +9,10 @@ weight:
 
 **Karoshi Dreams** és un joc desenvolupat per a la **7a Gran Jam de Jocs del CITM**, organitzada per **CITM UPC** amb la col·laboració de **GAMELOFT** i **SOCIAL POINT** com a jutges. El joc va ser creat en només **5 dies**, explorant el terme japonès "**karoshi**" (mort per excés de treball) dins d'una **atmosfera surrealista i fosca**. El tema principal de la jam va ser **somnis i malsons**.
 
+![](img_1.png)
+
+![](img_2.png)
+
 ### Tecnologies Utilitzades
 
 - **Unity**
