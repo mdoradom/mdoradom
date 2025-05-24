@@ -7,6 +7,8 @@ buildFuture = false
 enableEmoji = true
 baseURL = "https://mdoradom.com"
 
+googleAnalytics = "G-RFTFQPM2Q9"
+
 [pagination]
 pagerSize = 100
 
