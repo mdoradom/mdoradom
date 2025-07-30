@@ -11,7 +11,7 @@ weight:
 
 Este proyecto comenzó como un experimento de verano y más tarde se convirtió en la base para la asignatura de *Motores de Juegos* en el **tercer año** del **Grado en Diseño y Desarrollo de Videojuegos del CITM**. El proyecto recibió una *Matrícula de Honor*, consiguiendo una puntuación perfecta (10/10).
 
-También fue seleccionado como el **motor oficial** para que toda la clase desarrollara un juego con **40 estudiantes** como parte de la asignatura *Proyecto 3*. Para saber más sobre este proyecto puedes leer mi post sobre [Warhammer 40.000: The Last Marine](/projects/w40k-tlm/index.es.md) aquí.
+También fue seleccionado como el **motor oficial** para que toda la clase desarrollara un juego con **40 estudiantes** como parte de la asignatura *Proyecto 3*. Para saber más sobre este proyecto puedes leer mi post sobre [Warhammer 40.000: The Last Marine](/projects/w40k-tlm/) aquí.
 
 ![](img_1.webp)
 

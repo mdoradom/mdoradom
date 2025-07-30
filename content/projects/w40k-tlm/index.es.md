@@ -7,7 +7,7 @@ tags: ["C++", "Lua", "Game Engine"]
 weight:
 ---
 
-**Warhammer 40.000: The Last Marine** es un videojuego de disparos isométrico con pilares centrados en la exploración y la acción. Fue desarrollado por un equipo de 40 alumnos de **CITM-UPC** durante la asignatura de **Proyecto 3**, en un tiempo récord de **4 meses**, utilizando nuestro propio motor de juego: [**Coffee Engine**](/projects/coffee-engine/index.es.md), escrito en **C++** y **OpenGL**.
+**Warhammer 40.000: The Last Marine** es un videojuego de disparos isométrico con pilares centrados en la exploración y la acción. Fue desarrollado por un equipo de 40 alumnos de **CITM-UPC** durante la asignatura de **Proyecto 3**, en un tiempo récord de **4 meses**, utilizando nuestro propio motor de juego: [**Coffee Engine**](/projects/coffee-engine/), escrito en **C++** y **OpenGL**.
 
 > *Only one Ultramarine survived the drop – Battle-Brother Quintus Maxillian. Alone. Outnumbered. Unbreakable.*
 
@@ -34,7 +34,7 @@ Tomas el papel del **último Marine Espacial**, enfrentándote a hordas de enemi
 
 ### Mi contribución
 
-Antes de comenzar este proyecto, ya estaba trabajando en el desarrollo del [**Coffee Engine**](/projects/coffee-engine/index.es.md). Durante el desarrollo de *The Last Marine*, mi responsabilidad principal fue expandir y mantener el motor, añadiendo sistemas clave para facilitar la producción del juego. Mis tareas incluyeron:
+Antes de comenzar este proyecto, ya estaba trabajando en el desarrollo del [**Coffee Engine**](/projects/coffee-engine/). Durante el desarrollo de *The Last Marine*, mi responsabilidad principal fue expandir y mantener el motor, añadiendo sistemas clave para facilitar la producción del juego. Mis tareas incluyeron:
 
 - Desarrollo del **módulo de físicas**
 - Implementación del **sistema de detección de colisiones**

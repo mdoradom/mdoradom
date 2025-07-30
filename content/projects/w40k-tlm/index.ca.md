@@ -7,7 +7,7 @@ tags: ["C++", "Lua", "Game Engine"]
 weight:
 ---
 
-**Warhammer 40.000: The Last marine** és un videojoc de trets isomètric amb pilars centrats en l'exploració i l'acció. Va ser desenvolupat per un equip de 40 alumnes del **CITM-UPC** durant l'assignatura de **Projecte 3**, en un temps rècord de **4 mesos**, utilitzant el nostre propi motor de joc: [**Coffee Engine**](/projects/coffee-engine/index.es.md), escrit en **C++** i **OpenGL**.
+**Warhammer 40.000: The Last marine** és un videojoc de trets isomètric amb pilars centrats en l'exploració i l'acció. Va ser desenvolupat per un equip de 40 alumnes del **CITM-UPC** durant l'assignatura de **Projecte 3**, en un temps rècord de **4 mesos**, utilitzant el nostre propi motor de joc: [**Coffee Engine**](/projects/coffee-engine/), escrit en **C++** i **OpenGL**.
 
 > *Only one Ultramarine survived the drop – Battle-Brother Quintus Maxillian. Alone. Outnumbered. Unbreakable.*
 
@@ -34,7 +34,7 @@ Prens el paper de l'**últim Marine Espacial**, enfrontant-te a hordes d'enemics
 
 ### La meva contribució
 
-Abans de començar aquest projecte, ja estava treballant en el desenvolupament del [**Coffee Engine**](/projects/coffee-engine/index.es.md). Durant el desenvolupament de *The Last Marine*, la meva responsabilitat principal va ser expandir i mantenir el motor, afegint sistemes clau per facilitar la producció del joc. Les meves tasques van incloure:
+Abans de començar aquest projecte, ja estava treballant en el desenvolupament del [**Coffee Engine**](/projects/coffee-engine/). Durant el desenvolupament de *The Last Marine*, la meva responsabilitat principal va ser expandir i mantenir el motor, afegint sistemes clau per facilitar la producció del joc. Les meves tasques van incloure:
 
 - Desenvolupament del **mòdul de físiques**
 - Implementació del **sistema de detecció de col·lisions**

@@ -11,7 +11,7 @@ weight:
 
 This project started as a summer experiment and later became the foundation for the *Game Engine* course in the **third year** of the **CITM Game Design and Development Bachelor's Degree**. The project received the highest distinction in the course (*Matrícula de Honor*), achieving a perfect score (10/10).
 
-It was also selected as the **official engine** for the entire class of **40 students** to develop a game as part of the *Project 3* subject. To learn more about that project, you can read the post about [Warhammer 40,000: The Last Marine](/projects/w40k-tlm/index.es.md) here.
+It was also selected as the **official engine** for the entire class of **40 students** to develop a game as part of the *Project 3* subject. To learn more about that project, you can read the post about [Warhammer 40,000: The Last Marine](/projects/w40k-tlm/) here.
 
 ![](img_1.webp)
 
