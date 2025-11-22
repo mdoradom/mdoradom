@@ -3,7 +3,7 @@ title: "Paraulina"
 date: 2025-11-21
 draft: false
 summary: "Videojoc educatiu guanyador del premi 'Joc de l'Any' als Premis Ludi 2025."
-tags: ["Godot", "GDScript", "Educational", "Premis Ludi", "System Design"]
+tags: ["Godot", "GDScript", "Educational", "Premis Ludi"]
 weight:
 ---
 

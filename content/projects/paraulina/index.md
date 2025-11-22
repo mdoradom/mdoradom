@@ -3,7 +3,7 @@ title: "Paraulina"
 date: 2025-11-21
 draft: false
 summary: "Educational video game winner of the 'Game of the Year' award at Premis Ludi 2025."
-tags: ["Godot", "GDScript", "Educational", "Premis Ludi", "System Design"]
+tags: ["Godot", "GDScript", "Educational", "Premis Ludi"]
 weight:
 ---
 
