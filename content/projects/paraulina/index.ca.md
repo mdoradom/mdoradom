@@ -7,7 +7,7 @@ tags: ["Godot", "GDScript", "Educational", "Premis Ludi"]
 weight:
 ---
 
-**Paraulina** és una aventura educativa i d'exploració dissenyada per fomentar la comprensió oral i ortogràfica del català en infants de **2n de primària (6 a 8 anys)**.
+**Paraulina** és un joc educatiu dissenyat per fomentar la comprensió oral i ortogràfica del català en infants de **2n de primària (6 a 8 anys)**.
 
 ![](img_1.jpg)
 

@@ -7,7 +7,7 @@ tags: ["Godot", "GDScript", "Educational", "Premis Ludi"]
 weight:
 ---
 
-**Paraulina** is an educational and exploration adventure designed to foster oral comprehension and spelling in Catalan for children in **2nd grade (6 to 8 years old)**.
+**Paraulina** is an educational game designed to foster oral comprehension and spelling in Catalan for children in **2nd grade (6 to 8 years old)**.
 
 ![](img_1.jpg)
 
